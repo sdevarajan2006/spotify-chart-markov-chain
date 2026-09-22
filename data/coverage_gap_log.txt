@@ -1,0 +1,8 @@
+Source: Kaggle gonzalopezgil charts_songs_daily (country=us)
+Range 2017-01-01 to 2026-09-17: 3547 expected days, 3547 present, 709397 rows
+Missing days: none
+Days with != 200 rows:
+  2024-05-20: 199
+  2024-05-21: 199
+  2024-05-22: 199
+release_date missing rows: 9677; labels missing rows: 26
