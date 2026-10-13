@@ -7,3 +7,4 @@ pydtmc
 jupyter
 scikit-learn
 statsmodels
+lxml
