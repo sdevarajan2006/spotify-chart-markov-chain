@@ -101,9 +101,28 @@ Predicts a new release's log day-one streams (its top song) before release; stre
 - Leader forecast = D-2 #1 streams plus a Friday adjustment (error 1.10x, reproduced). ARIMA and seasonal ARIMA did not beat it.
 - Surprise releases (album Wikipedia page first viewed on D-1 or later) are excluded from the forecaster and the Part 1 threat input (`--keep-surprise` restores them). Singles are currently assumed to be announced ahead.
 
+## Release calendar plan (agreed 2026-11-17)
+
+Backtest calendar first; the live calendar comes later.
+
+**Backtest calendar.** Goal: for each day D, which releases were publicly known by the end of D-2.
+
+- **Release list:** keep the chart-derived releases. Releases that never charted are left out; they would have near-zero threat, so the effect should be small (worth one quick check).
+- **Albums: first-seen date on Wikipedia's "List of YYYY albums".** Use each page's revision history (MediaWiki API) to find the first day an album appears on the list. Known if it appears by the end of D-2 (UTC).
+  - Pull one revision per day (the last revision before midnight UTC): list revision IDs and timestamps first (`prop=revisions`, up to 500 per request), then fetch the daily versions. Start from each page's creation, since year pages exist before the year begins. About 10 pages x a few hundred days = a few thousand fetches; add a delay and a descriptive User-Agent.
+  - Parse each daily version for artist + title; record the first-seen date.
+  - Match on artist + release date within a few days, not title alone (working titles, e.g. I Am > I Was). Check the neighboring year's page if there's no match (date pushed back). Require a row to persist more than one day so reverted vandalism doesn't count.
+  - Compare against the current page-view surprise flags (`check_announcements.py`). The list rule also covers albums with no page of their own (169 no_page).
+  - Known weakness: editors sometimes add an announced album only after release, which falsely marks it a surprise. That makes the backtest slightly pessimistic, the safe direction.
+- **Singles: assumed known ahead of time.** Pragmatic choice and a known optimistic bias. To size it, go through the singles among the 144 days a debut took #1 and count surprises (e.g. Not Like Us).
+- Surprise releases stay out of the threat input but stay in Part 1's outcome (they count as unpredicted changes), mirroring live use.
+
+**Live calendar (proposed, not started).** Wikipedia "List of YYYY albums" for albums (same definition as the backtest); a watchlist of roughly 100-200 high-track-record artists for singles, checked weekly via news or by hand; MusicBrainz as a cross-check. Not Spotify's Web API (endpoints restricted for new apps since Nov 2024; Get New Releases only lists releases already out). Save a dated snapshot daily so a true point-in-time calendar builds up; it becomes the cleanest test set.
+
 ## Next steps
 
-1. **Build a release calendar (next major task, before more Part 1 modeling).** For each day D, list every release publicly known by D-2: artist, release date, album or single. Needs a historical version (2017-2026) for backtesting and a live version for upcoming releases. Must include releases that did not chart. Singles are the gap: they are most of the 4,647 releases and currently have no announcement data. Free sources only.
+1. **Backtest release calendar (next major task, before more Part 1 modeling).** Build album first-seen dates from the "List of YYYY albums" revision histories (see Release calendar plan), compare with the page-view surprise flags, and size the single-assumption bias using the singles among the 144 debut-#1 days.
 2. Redo Part 1 feature selection on validation years using the feature list above.
 3. Check suspect surprise-drop flags (renamed or late-created Wikipedia pages such as I Am > I Was and Hozier's EPs; short-notice announcements such as JackBoys) and the 30 top-10 album debuts with no Wikipedia match.
 4. Merge `data/tracks_with_release_dates.csv` (needs a rule for year-only and month-only dates).
+5. Live release calendar (later): Wikipedia list + singles watchlist + daily snapshots.
