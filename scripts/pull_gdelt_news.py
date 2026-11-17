@@ -2,7 +2,8 @@
 GDELT DOC 2.0 API (free, worldwide online news, 2017 onward).
 
 Run from the repo root (needs internet; standard library + pandas only):
-    python scripts/pull_gdelt_news.py --limit 3      # quick test: prints what came back
+    python scripts/pull_gdelt_news.py --names "Taylor Swift" Drake "Olivia Rodrigo"   # quick test
+    python scripts/pull_gdelt_news.py --limit 3      # quick test on the first 3 artists alphabetically
     python scripts/pull_gdelt_news.py                # full run, about 1,000 artists
     python scripts/pull_gdelt_news.py --parse-only   # rebuild the CSV from saved raw files
 
@@ -190,6 +191,7 @@ def parse():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, help="only this many artists (for testing)")
+    ap.add_argument("--names", nargs="+", help="only these artists, e.g. --names \"Taylor Swift\" Drake")
     ap.add_argument("--parse-only", action="store_true")
     a = ap.parse_args()
     if a.parse_only:
@@ -200,7 +202,10 @@ def main():
         o = pd.read_csv(OVERRIDES)
         ov = dict(zip(o.name, o.query))
     rel = load_names()
-    names = list(rel)[: a.limit] if a.limit else list(rel)
+    names = [n for n in a.names if n in rel] if a.names else list(rel)
+    if a.names and len(names) < len(a.names):
+        print("not in the release table:", [n for n in a.names if n not in rel])
+    names = names[: a.limit] if a.limit else names
     span = find_span("Taylor Swift", query_for("Taylor Swift", ov))
     plan = {n: needed_windows(rel[n], span) for n in names}
     total = sum(len(v) for v in plan.values())
@@ -209,7 +214,7 @@ def main():
         q = query_for(n, ov)
         for w0, w1 in plan[n]:
             s = get_window(n, q, w0, w1)
-        if a.limit:
+        if a.limit or a.names:
             pts = s["points"]
             print(f"  {n}: {len(plan[n])} windows; last window {len(pts)} points, daily={s['daily']}, "
                   f"first={pts[0] if pts else None}, error={s['error']}")
