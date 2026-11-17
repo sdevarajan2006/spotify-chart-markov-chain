@@ -28,10 +28,10 @@ notebooks/analysis.ipynb                        original binned-state Markov cha
 archive/                                        older material
 scripts/build_us_top200.py                      rebuilds the dataset from the Kaggle source
 scripts/build_release_features.py               -> data/release_features.csv
-scripts/debut_forecaster.py                     -> data/debut_forecast_results.csv + test predictions (older 17-feature config, see Debut strength forecaster)
+scripts/debut_forecaster.py                     v2 forecaster (14-feature gradient boosting), importable; run directly -> data/debut_forecast_release_predictions.csv, data/debut_forecast_test_metrics.csv
 scripts/grid_search_debut.py                    -> data/debut_grid_search.csv
-scripts/validate_debut_models.py                rolling validation on 2019-2023 of last-release baseline, OLS, ridge and gradient boosting (17 features) -> data/debut_validation_results.csv, data/debut_validation_by_year.csv
-scripts/part1_overlay.py                        Part 1 with debut threat; also fits the final 14-feature forecaster -> data/part1_overlay_results.csv, part1_overlay_test_days.csv, debut_forecast_release_predictions.csv
+scripts/validate_debut_models.py                rolling validation on 2019-2023 of last-release baseline, OLS, ridge and gradient boosting (older 17-feature set, not v2) -> data/debut_validation_results.csv, data/debut_validation_by_year.csv
+scripts/part1_overlay.py                        Part 1 with debut threat, imports debut_forecaster.py -> data/part1_overlay_results.csv, part1_overlay_test_days.csv, debut_forecast_release_predictions.csv
 scripts/check_announcements.py                  announced-ahead check -> data/release_announcements.csv
 scripts/pull_wikipedia_albums.py                Wikipedia "List of YYYY albums" pull
 scripts/pull_wikipedia_pageviews.py             album page views (--retry-unmatched also searches Wikidata)
@@ -53,7 +53,7 @@ Branch `number1-source-analysis` holds the #1 work. As of 2026-11-08, commit 288
 
 Two parts, no off-chart state:
 1. **Part 1:** does the D-2 #1 still hold #1 on day D? (logistic regression)
-2. **If not, who takes over.** Replaced by the debut strength forecaster, since debuts are the main threat that history can't see on the chart.
+1. **If not, who takes over.** Replaced by the debut strength forecaster, since debuts are the main threat that history can't see on the chart.
 
 **Baseline:** "the #1 on D-2 is #1 on D" is right 77.7% of the time. Of takeovers: #2 41%, debut 34%, #3 or lower 25%.
 
@@ -96,15 +96,14 @@ All measured on the D-2 chart unless noted.
 
 Predicts a new release's log day-one streams (its top song) before release; strength = predicted streams / forecast of the day-D leader. Feeds P(beats leader) into Part 1 as the debut threat.
 
-- Gradient boosting (learning rate 0.1, 7 leaves, min 60 per leaf), 14 features: artist track record (last release, last same-type release, best of last 3, best in 2 years, best ever, weighted average, release count, prior #1 debuts, days since last release), is_album (matched to Wikipedia "List of YYYY albums", known before release), number of credited artists, Friday, market size. Chosen by grid search over 527 candidates on validation years 2019-2023. This final config is implemented in `part1_overlay.py`; `debut_forecaster.py` still runs the earlier 17-feature version (adds page-view features, learning rate 0.04, 15 leaves, min 40 per leaf), and its saved results (gbm log loss 0.116, error 1.38x, 9 of 42 caught) differ from the numbers below.
-- Test 2024-2026 (825 releases, 42 beat the leader): AUC 0.90 (last-release baseline 0.82), log loss 0.133, typical error 1.43x. After excluding surprise drops: AUC 0.904.
-- Leader forecast = D-2 #1 streams plus a Friday adjustment (error 1.10x). ARIMA and seasonal ARIMA did not beat it.
+- Gradient boosting (learning rate 0.1, 7 leaves, min 60 per leaf), 14 features: artist track record (last release, last same-type release, best of last 3, best in 2 years, best ever, weighted average, release count, prior #1 debuts, days since last release), is_album (matched to Wikipedia "List of YYYY albums", known before release), number of credited artists, Friday, market size. Chosen by grid search over 527 candidates on validation years 2019-2023. Implemented in `debut_forecaster.py`, which `part1_overlay.py` imports. `debut_forecast_results.csv` and `debut_forecast_test_predictions_{gbm,ridge}.csv` are leftovers from the earlier 17-feature script (gbm log loss 0.116 there) and are not v2 outputs.
+- Test 2024-2026, reproduced 2026-11-17 with `debut_forecaster.py` (`data/debut_forecast_test_metrics*.csv`). All 825 releases (42 beat the leader): AUC 0.899, log loss 0.134, typical error 1.43x, last-release baseline AUC 0.82. After excluding 13 surprise drops (812 releases, 39 beat): AUC 0.908, log loss 0.125, error 1.42x.
+- Leader forecast = D-2 #1 streams plus a Friday adjustment (error 1.10x, reproduced). ARIMA and seasonal ARIMA did not beat it.
 - Surprise releases (album Wikipedia page first viewed on D-1 or later) are excluded from the forecaster and the Part 1 threat input (`--keep-surprise` restores them). Singles are currently assumed to be announced ahead.
 
 ## Next steps
 
-1. Push commit 2ea7776 and merge `number1-source-analysis` into `main` via pull request.
-2. **Build a release calendar (next major task, before more Part 1 modeling).** For each day D, list every release publicly known by D-2: artist, release date, album or single. Needs a historical version (2017-2026) for backtesting and a live version for upcoming releases. Must include releases that did not chart. Singles are the gap: they are most of the 4,647 releases and currently have no announcement data. Free sources only.
-3. Redo Part 1 feature selection on validation years using the feature list above.
-4. Check suspect surprise-drop flags (renamed or late-created Wikipedia pages such as I Am > I Was and Hozier's EPs; short-notice announcements such as JackBoys) and the 30 top-10 album debuts with no Wikipedia match.
-5. Merge `data/tracks_with_release_dates.csv` (needs a rule for year-only and month-only dates).
+1. **Build a release calendar (next major task, before more Part 1 modeling).** For each day D, list every release publicly known by D-2: artist, release date, album or single. Needs a historical version (2017-2026) for backtesting and a live version for upcoming releases. Must include releases that did not chart. Singles are the gap: they are most of the 4,647 releases and currently have no announcement data. Free sources only.
+2. Redo Part 1 feature selection on validation years using the feature list above.
+3. Check suspect surprise-drop flags (renamed or late-created Wikipedia pages such as I Am > I Was and Hozier's EPs; short-notice announcements such as JackBoys) and the 30 top-10 album debuts with no Wikipedia match.
+4. Merge `data/tracks_with_release_dates.csv` (needs a rule for year-only and month-only dates).

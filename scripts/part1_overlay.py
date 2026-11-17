@@ -2,7 +2,7 @@
 
 Part 1: does the #1 on the D-2 chart still hold #1 on day D? (logistic regression)
 New input: P(a release first charting on day D out-streams every existing song),
-from the debut forecaster (gradient boosting picked by the grid search).
+from the debut forecaster (scripts/debut_forecaster.py, gradient boosting picked by the grid search).
 
 No look-ahead:
 - Release predictions for 2019-2023 come from forecasters trained on earlier years only.
@@ -13,67 +13,20 @@ Assumes the release calendar is known by D-2 (releases come from the chart itsel
 import sys
 import numpy as np
 import pandas as pd
-from scipy.stats import norm
-from sklearn.ensemble import HistGradientBoostingRegressor
-from sklearn.linear_model import LinearRegression, LogisticRegression
-from sklearn.metrics import log_loss, roc_auc_score
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import log_loss
+
+from debut_forecaster import forecast_releases, load_releases, test_metrics
 
 CHART = sys.argv[1] if len(sys.argv) > 1 else "data/spotify_us_daily_top200_2017_2026.csv.gz"
 FEAT = sys.argv[2] if len(sys.argv) > 2 else "data/release_features.csv"
 OUTDIR = sys.argv[3] if len(sys.argv) > 3 else "data"
+ANN = sys.argv[4] if len(sys.argv) > 4 else "data/release_announcements.csv"
+EXCLUDE_SURPRISE = "--keep-surprise" not in sys.argv
 
-# ---------------- debut forecaster ----------------
-R = pd.read_csv(FEAT, parse_dates=["first_chart_date"])
-R = R[R.no1_d2.notna()].reset_index(drop=True)
-R["l_n_prev"] = np.log1p(R.n_prev)
-R["l_days_since"] = np.log1p(R.days_since_last)
-FEATS = (["last_ls", "last_same_ls", "has_hist"]
-         + ["best3_ls", "best2y_ls", "best_ever_ls", "ewm_ls", "l_n_prev", "n_no1_debuts", "l_days_since"]
-         + ["is_album", "n_credited"] + ["friday", "l_mkt"])
-
-
-def gbm():
-    return HistGradientBoostingRegressor(max_iter=300, learning_rate=0.1, max_leaf_nodes=7,
-                                         min_samples_leaf=60, l2_regularization=1.0, random_state=0)
-
-
-def fc_predict(tr, va):
-    s = gbm().fit(tr[FEATS], tr.lstreams).predict(va[FEATS])
-    den = LinearRegression().fit(tr[["l_no1_d2", "friday"]], tr.l_best_existing)
-    return s, s - den.predict(va[["l_no1_d2", "friday"]])
-
-
-R["pred_lstreams"] = np.nan
-R["pred_lstrength"] = np.nan
-for y in range(2018, 2024):                       # rolling: each year from earlier years
-    tr, idx = R[R.year < y], R.index[R.year == y]
-    s, st = fc_predict(tr, R.loc[idx])
-    R.loc[idx, "pred_lstreams"], R.loc[idx, "pred_lstrength"] = s, st
-idx = R.index[R.year >= 2024]                     # final: trained on 2017-2023
-s, st = fc_predict(R[R.year <= 2023], R.loc[idx])
-R.loc[idx, "pred_lstreams"], R.loc[idx, "pred_lstrength"] = s, st
-
-R["resid"] = R.pred_lstrength - R.lstrength
-sig_by_year = R.groupby("year").resid.std()
-R["sigma"] = np.nan
-for y in range(2019, 2024):
-    R.loc[R.year == y, "sigma"] = sig_by_year[y - 1]          # spread from the previous year
-R.loc[R.year >= 2024, "sigma"] = R[R.year.between(2019, 2023)].resid.std()
-R["p_beat"] = norm.sf(0, loc=R.pred_lstrength, scale=R.sigma)
-
-# one-time test score of the forecaster itself
-T = R[R.year >= 2024]
-beat = T.strength > 1
-pb = T.p_beat.clip(1e-4, 1 - 1e-4)
-fc_test = {
-    "releases": len(T), "beat_leader": int(beat.sum()),
-    "err_all": np.exp(np.abs(T.pred_lstreams - T.lstreams).mean()),
-    "err_top10": np.exp(np.abs(T.pred_lstreams - T.lstreams)[T.top_song_rank <= 10].mean()),
-    "auc": roc_auc_score(beat, T.pred_lstrength),
-    "logloss": -np.mean(beat * np.log(pb) + (~beat) * np.log(1 - pb)),
-}
-base_pr = T.last_same_lstr.fillna(T.last_lstr).fillna(np.log(0.18))
-fc_test["baseline_auc"] = roc_auc_score(beat, base_pr)
+# ---------------- debut forecaster (v2, scripts/debut_forecaster.py) ----------------
+R = forecast_releases(load_releases(FEAT, ANN, EXCLUDE_SURPRISE))
+fc_test = test_metrics(R)
 
 # ---------------- Part 1 days ----------------
 c = pd.read_csv(CHART, parse_dates=["chart_date"])
