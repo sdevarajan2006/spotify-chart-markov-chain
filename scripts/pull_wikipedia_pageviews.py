@@ -5,6 +5,8 @@ Run from the repo root (needs internet; standard library + pandas only):
     python scripts/pull_wikipedia_pageviews.py --limit 5     # quick test on 5 artists
     python scripts/pull_wikipedia_pageviews.py               # full run (~1,000 artists + albums)
     python scripts/pull_wikipedia_pageviews.py --parse-only  # rebuild the CSVs from saved raw files
+    python scripts/pull_wikipedia_pageviews.py --retry-unmatched  # search again for albums with no page
+       (album fixes by hand: data/wikipedia_album_title_overrides.csv, columns artist, album, enwiki_title)
 
 Steps
 1. Find each artist's Wikipedia article through Wikidata: search the name and keep
@@ -118,7 +120,47 @@ def resolve_artist(name):
     return {"qid": None, "enwiki_title": None, "description": None, "match": "none"}
 
 
-def resolve_album(album, artist, artist_qid):
+def pub_dates(ent):
+    out = []
+    for c in ent.get("claims", {}).get("P577", []):
+        v = c.get("mainsnak", {}).get("datavalue", {}).get("value", {})
+        t = v.get("time") if isinstance(v, dict) else None
+        if t and len(t) >= 11 and t[6:8] != "00" and t[9:11] != "00":
+            try:
+                out.append(date(int(t[1:5]), int(t[6:8]), int(t[9:11])))
+            except ValueError:
+                pass
+    return out
+
+
+def resolve_album_by_performer(album, artist_qid, release_day, window=10):
+    """Fallback: items whose performer (P175) is the artist, picked by title match or release date."""
+    if not artist_qid:
+        return None
+    found = []
+    for q in [f'{album} haswbstatement:P175={artist_qid}', f'haswbstatement:P175={artist_qid}']:
+        res = wd(action="query", list="search", srsearch=q, srnamespace=0, srlimit=50) or {}
+        found += [h["title"] for h in res.get("query", {}).get("search", [])]
+    ids = list(dict.fromkeys(found))[:50]
+    ents = {}
+    for i in range(0, len(ids), 50):
+        ents.update(wd_entities(ids[i:i + 50]))
+    best = None
+    for qid in ids:
+        e = ents.get(qid, {})
+        if not enwiki(e) or not (set(claim_ids(e, "P31")) & ALBUM_TYPES):
+            continue
+        label = e.get("labels", {}).get("en", {}).get("value", "")
+        gaps = [abs((d - release_day).days) for d in pub_dates(e)]
+        gap = min(gaps) if gaps else None
+        if label.lower() == album.lower() and (gap is None or gap <= 365):
+            return {"qid": qid, "enwiki_title": enwiki(e), "description": desc(e), "match": "performer_search"}
+        if gap is not None and gap <= window and (best is None or gap < best[0]):
+            best = (gap, {"qid": qid, "enwiki_title": enwiki(e), "description": desc(e), "match": "performer_date"})
+    return best[1] if best else None
+
+
+def resolve_album(album, artist, artist_qid, release_day=None):
     hits = (wd(action="wbsearchentities", search=album, language="en", type="item", limit=10) or {}).get("search", [])
     ents = wd_entities([h["id"] for h in hits])
     for h in hits:
@@ -129,6 +171,10 @@ def resolve_album(album, artist, artist_qid):
             return {"qid": h["id"], "enwiki_title": enwiki(e), "description": desc(e), "match": "performer"}
         if artist.lower() in desc(e).lower():
             return {"qid": h["id"], "enwiki_title": enwiki(e), "description": desc(e), "match": "description"}
+    if release_day is not None:
+        r = resolve_album_by_performer(album, artist_qid, release_day)
+        if r:
+            return r
     return {"qid": None, "enwiki_title": None, "description": None, "match": "none"}
 
 
@@ -150,7 +196,10 @@ def overrides():
     return {}
 
 
-def resolve_all(names, albums, limit=None):
+ALBUM_OVERRIDES = DATA / "wikipedia_album_title_overrides.csv"   # columns: artist, album, enwiki_title
+
+
+def resolve_all(names, albums, limit=None, retry=False):
     ov = overrides()
     done = pd.read_csv(ARTIST_TITLES) if ARTIST_TITLES.exists() else pd.DataFrame(columns=["name"])
     rows = done.to_dict("records")
@@ -173,13 +222,16 @@ def resolve_all(names, albums, limit=None):
 
     qid = dict(zip(A.name, A.qid))
     done = pd.read_csv(ALBUM_TITLES) if ALBUM_TITLES.exists() else pd.DataFrame(columns=["artist", "album"])
+    if retry and "match" in done:
+        print(f"retrying {(done.match == 'none').sum()} unmatched albums")
+        done = done[done.match != "none"]
     rows = done.to_dict("records")
     have = set(zip(done.artist, done.album))
     todo = [r for r in albums.itertuples() if (r.hist_artist, r.wikipedia_album) not in have]
     if limit:
         todo = [r for r in todo if r.hist_artist in set(A.name)][:limit]
     for i, r in enumerate(todo, 1):
-        res = resolve_album(r.wikipedia_album, r.hist_artist, qid.get(r.hist_artist))
+        res = resolve_album(r.wikipedia_album, r.hist_artist, qid.get(r.hist_artist), r.first_chart_date.date())
         res.update(artist=r.hist_artist, album=r.wikipedia_album, first_chart_date=r.first_chart_date.date())
         rows.append(res)
         if i % 25 == 0:
@@ -187,6 +239,11 @@ def resolve_all(names, albums, limit=None):
             pd.DataFrame(rows).to_csv(ALBUM_TITLES, index=False)
         time.sleep(0.2)
     B = pd.DataFrame(rows)
+    if ALBUM_OVERRIDES.exists():
+        o = pd.read_csv(ALBUM_OVERRIDES)
+        for x in o.itertuples():
+            m = (B.artist == x.artist) & (B.album == x.album)
+            B.loc[m, ["enwiki_title", "match"]] = [x.enwiki_title, "override"]
     B.to_csv(ALBUM_TITLES, index=False)
     print(f"albums: {len(B)} total, {B.enwiki_title.isna().sum()} without a page")
     return A, B
@@ -235,12 +292,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--limit", type=int, help="only resolve/download this many new artists (for testing)")
     ap.add_argument("--parse-only", action="store_true")
+    ap.add_argument("--retry-unmatched", action="store_true", help="search again for albums with no page")
     a = ap.parse_args()
     names, albums = load_inputs()
     if a.parse_only:
         parse(pd.read_csv(ARTIST_TITLES), pd.read_csv(ALBUM_TITLES))
         return
-    A, B = resolve_all(names, albums, a.limit)
+    A, B = resolve_all(names, albums, a.limit, a.retry_unmatched)
     download("artist", A.enwiki_title.tolist())
     download("album", B.enwiki_title.tolist())
     parse(A, B)

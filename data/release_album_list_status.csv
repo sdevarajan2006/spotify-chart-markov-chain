@@ -1,0 +1,994 @@
+first_chart_date,artist,hist_artist,top_song,wikipedia_album,page_view_status,list_year,list_release_date,list_first_seen,lead_days,known_list
+2017-01-13,The xx,The xx,I Dare You,I See You,known,2017.0,2017-01-13,2016-11-11,63.0,1.0
+2017-01-20,John Mayer,John Mayer,Changing,The Search for Everything: Wave One,surprise,2017.0,2017-01-20,2017-01-21,-1.0,0.0
+2017-01-27,Kehlani,Kehlani,Escape,SweetSexySavage,known,2017.0,2017-01-27,2016-12-11,47.0,1.0
+2017-01-27,Migos,Migos,Get Right Witcha,Culture,known,2017.0,2017-01-27,2017-01-07,20.0,1.0
+2017-01-28,Kehlani,Kehlani,Keep On,SweetSexySavage,known,2017.0,2017-01-27,2016-12-11,48.0,1.0
+2017-02-03,Big Sean,Big Sean,No Favors,I Decided.,known,2017.0,2017-02-03,2016-12-23,42.0,1.0
+2017-02-17,Future,Future,Rent Money,Future,known,2017.0,2017-02-17,2017-02-14,3.0,1.0
+2017-02-24,Future,Future,Selfish (feat. Rihanna),Hndrxx,known,2017.0,2017-02-24,2017-02-22,2.0,1.0
+2017-02-24,John Mayer,John Mayer,Helpless,The Search for Everything: Wave Two,known,2017.0,2017-02-24,2017-02-24,0.0,0.0
+2017-03-03,Ed Sheeran,Ed Sheeran,What Do I Know?,÷,known,2017.0,2017-03-03,2017-01-12,50.0,1.0
+2017-03-03,Khalid,Khalid,8TEEN,American Teen,known,2017.0,2017-03-03,2017-03-01,2.0,1.0
+2017-03-05,Khalid,Khalid,American Teen,American Teen,known,2017.0,2017-03-03,2017-03-01,4.0,1.0
+2017-03-17,Rick Ross,Rick Ross,"Dead Presidents (feat. Future, Jeezy & Yo Gotti)",Rather You Than Me,known,2017.0,2017-03-17,2017-03-10,7.0,1.0
+2017-03-19,Drake,Drake,Passionfruit,More Life,known,2017.0,2017-03-18,2017-03-12,7.0,1.0
+2017-03-24,Mike WiLL Made-It,Mike WiLL Made-It,"Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)",Ransom 2,known,2017.0,2017-03-24,2017-03-16,8.0,1.0
+2017-03-24,Trey Songz,Trey Songz,Come Over,Tremaine the Album,surprise,2017.0,2017-03-24,2017-03-25,-1.0,0.0
+2017-03-31,Kodak Black,Kodak Black,Conscience (feat. Future),Painting Pictures,known,2017.0,2017-03-31,2017-03-25,6.0,1.0
+2017-04-07,Joey Bada$$,Joey Bada$$,ROCKABYE BABY,All-Amerikkkan Bada$$,known,,,,,
+2017-04-07,The Chainsmokers,The Chainsmokers,Break Up Every Night,Memories...Do Not Open,known,2017.0,2017-04-07,2017-02-16,50.0,1.0
+2017-04-14,John Mayer,John Mayer,In the Blood,The Search for Everything,known,2017.0,2017-04-14,2016-11-18,147.0,1.0
+2017-04-14,Kendrick Lamar,Kendrick Lamar,DNA.,Damn,known,2017.0,2017-04-14,2017-04-11,3.0,1.0
+2017-04-14,Playboi Carti,Playboi Carti,wokeuplikethis*,Playboi Carti,surprise,2017.0,2017-04-14,2017-04-23,-9.0,0.0
+2017-04-28,Cashmere Cat,Cashmere Cat,Quit (feat. Ariana Grande),9,known,2017.0,2017-04-28,2017-04-05,23.0,1.0
+2017-04-28,Gorillaz,Gorillaz,Submission (feat. Danny Brown & Kelela),Humanz,known,2017.0,2017-04-28,2017-03-23,36.0,1.0
+2017-04-28,Wale,Wale,"My Love (feat. Major Lazer, WizKid, Dua Lipa)",Shine,known,2017.0,2017-04-28,2017-04-08,20.0,1.0
+2017-04-29,Wale,Wale,Colombia Heights (Te Llamo) (feat. J Balvin),Shine,known,2017.0,2017-04-28,2017-04-08,21.0,1.0
+2017-05-05,Chris Stapleton,Chris Stapleton,Either Way,From A Room: Volume 1,known,2017.0,2017-05-05,2017-04-08,27.0,1.0
+2017-05-05,Logic,Logic,America,Everybody,known,2017.0,2017-05-05,2017-03-30,36.0,1.0
+2017-05-05,Russ,Russ,Cherry Hill,There's Really a Wolf,known,2017.0,2017-05-05,2017-05-09,-4.0,0.0
+2017-05-06,Russ,Russ,Me You,There's Really a Wolf,known,2017.0,2017-05-05,2017-05-09,-3.0,0.0
+2017-05-12,Harry Styles,Harry Styles,Carolina,Harry Styles,known,2017.0,2017-05-12,2017-04-13,29.0,1.0
+2017-05-12,Paramore,Paramore,Forgiveness,After Laughter,known,2017.0,2017-05-12,2017-04-19,23.0,1.0
+2017-05-19,Linkin Park,Linkin Park,Sorry for Now,One More Light,known,2017.0,2017-05-19,2017-02-16,92.0,1.0
+2017-05-26,Bryson Tiller,Bryson Tiller,Self-Made,True to Self,known,2017.0,2017-05-26,2017-05-25,1.0,0.0
+2017-05-26,Gucci Mane,Gucci Mane,Met Gala (feat. Offset),Droptopwop,surprise,2017.0,2017-05-26,2017-05-25,1.0,0.0
+2017-05-26,Lil Yachty,Lil Yachty,Better,Teenage Emotions,known,2017.0,2017-05-26,2017-04-22,34.0,1.0
+2017-05-27,Gucci Mane,Gucci Mane,Both Eyes Closed (feat. 2 Chainz and Young Dolph),Droptopwop,surprise,2017.0,2017-05-26,2017-05-25,2.0,1.0
+2017-06-02,Halsey,Halsey,Bad At Love,Hopeless Fountain Kingdom,known,2017.0,2017-06-02,2017-03-08,86.0,1.0
+2017-06-02,Major Lazer,Major Lazer,"Know No Better (feat. Travis Scott, Camila Cabello & Quavo)",Know No Better,surprise,2017.0,2017-06-02,2017-06-02,0.0,0.0
+2017-06-02,PARTYNEXTDOOR,PARTYNEXTDOOR,RENDEZVOUS,Colours 2,surprise,2017.0,2017-06-02,2017-06-04,-2.0,0.0
+2017-06-02,Yo Gotti,Yo Gotti,Rake It Up (feat. Nicki Minaj),Gotti Made-It,surprise,,,,,
+2017-06-02,alt-J,alt-J,Deadcrush,Relaxer,known,2017.0,2017-06-02,2017-03-04,90.0,1.0
+2017-06-09,Katy Perry,Katy Perry,Pendulum,Witness,known,2017.0,2017-06-09,2017-05-15,25.0,1.0
+2017-06-09,SZA,SZA,Doves In The Wind (feat. Kendrick Lamar),Ctrl,known,2017.0,2017-06-09,2017-01-14,146.0,1.0
+2017-06-16,2 Chainz,2 Chainz,OG Kush Diet,Pretty Girls Like Trap Music,known,2017.0,2017-06-16,2017-03-12,96.0,1.0
+2017-06-16,Lorde,Lorde,Supercut,Melodrama,known,2017.0,2017-06-16,2017-03-02,106.0,1.0
+2017-06-16,Portugal. The Man,Portugal. The Man,Feel It Still,Woodstock,known,2017.0,2017-06-16,2017-05-28,19.0,1.0
+2017-06-16,Young Thug,Young Thug,Relationship (feat. Future),Beautiful Thugger Girls,surprise,2017.0,2017-06-16,2017-06-20,-4.0,0.0
+2017-06-23,DJ Khaled,DJ Khaled,Don't Quit (feat. Travis Scott & Jeremih),Grateful,known,2017.0,2017-06-23,2017-03-18,97.0,1.0
+2017-06-23,Imagine Dragons,Imagine Dragons,Start Over,Evolve,known,2017.0,2017-06-23,2017-05-09,45.0,1.0
+2017-06-23,Vince Staples,Vince Staples,Yeah Right,Big Fish Theory,known,2017.0,2017-06-23,2017-05-18,36.0,1.0
+2017-06-30,Calvin Harris,Calvin Harris,Prayers Up (feat. Travis Scott & A-Trak),Funk Wav Bounces Vol. 1,known,2017.0,2017-06-30,2017-05-12,49.0,1.0
+2017-06-30,LANY,LANY,Super Far,LANY,known,2017.0,2017-06-30,2017-03-04,118.0,1.0
+2017-07-07,21 Savage,21 Savage,Bank Account,Issa Album,surprise,2017.0,2017-07-07,2017-07-17,-10.0,0.0
+2017-07-07,HAIM,HAIM,Kept Me Crying,Something to Tell You,known,2017.0,2017-07-07,2017-04-27,71.0,1.0
+2017-07-14,Coldplay,Coldplay,Miracles (Someone Special),Kaleidoscope EP,known,,,,,
+2017-07-14,French Montana,French Montana,A Lie,Jungle Rules,known,2017.0,2017-07-14,2017-06-27,17.0,1.0
+2017-07-21,Lana Del Rey,Lana Del Rey,Beautiful People Beautiful Problems (feat. Stevie Nicks),Lust for Life,known,2017.0,2017-07-21,2017-03-30,113.0,1.0
+2017-07-21,Meek Mill,Meek Mill,Fuck That Check Up (feat. Lil Uzi Vert),Wins & Losses,known,,,,,
+2017-07-21,NAV,NAV,Minute,Perfect Timing,known,,,,,
+2017-07-21,"Tyler, The Creator","Tyler, The Creator",See You Again (feat. Kali Uchis),Flower Boy,known,2017.0,2017-07-21,2017-07-20,1.0,0.0
+2017-08-04,Brett Eldredge,Brett Eldredge,Somethin' I'm Good At,Brett Eldredge,known,2017.0,2017-08-04,2017-05-10,86.0,1.0
+2017-08-11,Avicii,Avicii,Lonely Together (feat. Rita Ora),Avīci (01),known,2017.0,2017-08-10,2017-08-10,1.0,0.0
+2017-08-11,Bebe Rexha,Bebe Rexha,(Not) The One,All Your Fault: Pt. 2,known,2017.0,2017-08-11,2017-02-05,187.0,1.0
+2017-08-11,Kesha,Kesha,Let 'Em Talk (feat. Eagles of Death Metal),Rainbow,known,2017.0,2017-08-11,2017-07-06,36.0,1.0
+2017-08-18,A$AP Ferg,A$AP Ferg,Trap And A Dream (feat. Meek Mill),Still Striving,known,,,,,
+2017-08-25,A$AP Mob,A$AP Mob,"Please Shut Up (feat. A$AP Rocky, KEY! & Gucci Mane)",Cozy Tapes Vol. 2: Too Cozy,known,,,,,
+2017-08-25,Fifth Harmony,Fifth Harmony,He Like That,Fifth Harmony,known,2017.0,2017-08-25,2017-08-11,14.0,1.0
+2017-08-25,Lil Uzi Vert,Lil Uzi Vert,The Way Life Goes (feat. Oh Wonder),Luv Is Rage 2,known,,,,,
+2017-08-25,Old Dominion,Old Dominion,Written in the Sand,Happy Endings,known,,,,,
+2017-08-25,XXXTENTACION,XXXTENTACION,Jocelyn Flores,17,known,,,,,
+2017-08-26,Daniel Caesar,Daniel Caesar,Get You (feat. Kali Uchis),Freudian,known,2017.0,2017-08-25,2017-08-22,4.0,1.0
+2017-09-08,ODESZA,ODESZA,Falls,A Moment Apart,known,2017.0,2017-09-08,2017-09-29,-21.0,0.0
+2017-09-08,Thomas Rhett,Thomas Rhett,Leave Right Now,Life Changes,known,2017.0,2017-09-08,2017-08-12,27.0,1.0
+2017-09-15,Foo Fighters,Foo Fighters,Arrows,Concrete and Gold,known,2017.0,2017-09-15,2017-06-20,87.0,1.0
+2017-09-22,Macklemore,Macklemore,Good Old Days (feat. Kesha),Gemini,known,2017.0,2017-09-22,2017-08-25,28.0,1.0
+2017-09-29,Demi Lovato,Demi Lovato,Ruin The Friendship,Tell Me You Love Me,known,2017.0,2017-09-29,2017-08-23,37.0,1.0
+2017-09-29,Miley Cyrus,Miley Cyrus,I Would Die For You,Younger Now,known,2017.0,2017-09-29,2017-08-09,51.0,1.0
+2017-10-06,NF,NF,10 Feet Down,Perception,known,,,,,
+2017-10-13,Gucci Mane,Gucci Mane,Enormous (feat. Ty Dolla $ign),Mr. Davis,known,2017.0,2017-10-13,2017-08-18,56.0,1.0
+2017-10-20,Niall Horan,Niall Horan,Seeing Blind,Flicker,known,2017.0,2017-10-20,2017-09-15,35.0,1.0
+2017-10-26,Ty Dolla $ign,Ty Dolla $ign,Don't Judge Me (feat. Future & Swae Lee),Beach House 3,known,2017.0,,2017-05-28,151.0,1.0
+2017-10-27,Ty Dolla $ign,Ty Dolla $ign,Lil Favorite (feat. MadeinTYO),Beach House 3,known,2017.0,,2017-05-28,152.0,1.0
+2017-10-31,21 Savage,21 Savage,Ghostface Killers (feat. Travis Scott),Without Warning,known,,,,,
+2017-10-31,Offset,Offset,Ric Flair Drip (with Metro Boomin),Without Warning,known,,,,,
+2017-11-03,Kelsea Ballerini,Kelsea Ballerini,End of the World,Unapologetically,known,2017.0,2017-11-03,2017-08-10,85.0,1.0
+2017-11-03,Kygo,Kygo,Riding Shotgun (feat. Bonnie McKee),Kids in Love,known,2017.0,2017-11-03,2017-10-24,10.0,1.0
+2017-11-03,Maroon 5,Maroon 5,Wait,Red Pill Blues,known,2017.0,2017-11-03,2017-10-06,28.0,1.0
+2017-11-03,Sam Smith,Sam Smith,Nothing Left For You,The Thrill of It All,known,2017.0,2017-11-03,2017-10-06,28.0,1.0
+2017-11-17,Jaden,Jaden,Breakfast (feat. A$AP Rocky),Syre,known,,,,,
+2017-12-01,Miguel,Miguel,Come Through and Chill (feat. J. Cole & Salaam Remi),War & Leisure,known,2017.0,2017-12-01,2017-11-19,12.0,1.0
+2017-12-08,Big Sean,Big Sean,Go Legend (& Metro Boomin),Double or Nothing,known,,,,,
+2017-12-15,BROCKHAMPTON,BROCKHAMPTON,BOOGIE,Saturation III,known,2017.0,2017-12-15,2017-12-08,7.0,1.0
+2017-12-15,Eminem,Eminem,River (feat. Ed Sheeran),Revival,known,2017.0,2017-12-15,2017-11-08,37.0,1.0
+2017-12-15,G-Eazy,G-Eazy,Love Is Gone,The Beautiful & Damned,known,2017.0,2017-12-15,2017-06-20,178.0,1.0
+2017-12-15,N.E.R.D,N.E.R.D,Don't Don't Do It!,No One Ever Really Dies,known,2017.0,2017-12-15,2017-11-22,23.0,1.0
+2017-12-22,Gucci Mane,Gucci Mane,Peepin Out the Blinds,El Gato: The Human Glacier,surprise,2017.0,2017-12-22,2017-12-15,7.0,1.0
+2018-01-12,Camila Cabello,Camila Cabello,In the Dark,Camila,known,2018.0,2018-01-12,2017-12-05,38.0,1.0
+2018-01-19,Fall Out Boy,Fall Out Boy,Church,Mania,known,2018.0,2018-01-19,2017-08-04,168.0,1.0
+2018-01-20,Drake,Drake,God's Plan,Scary Hours,surprise,,,,,
+2018-01-26,Migos,Migos,Narcos,Culture II,known,2018.0,2018-01-26,2018-01-18,8.0,1.0
+2018-02-02,Justin Timberlake,Justin Timberlake,Man of the Woods,Man of the Woods,known,2018.0,2018-02-02,2018-01-02,31.0,1.0
+2018-02-02,Rich Brian,Rich Brian,Attention (feat. Offset),Amen,surprise,2018.0,2018-02-02,2018-01-23,10.0,1.0
+2018-02-09,Kendrick Lamar,Kendrick Lamar,Black Panther,Black Panther: The Album,known,,,,,
+2018-02-16,Nipsey Hussle,Nipsey Hussle,Dedication (feat. Kendrick Lamar),Victory Lap,known,,,,,
+2018-02-17,Nipsey Hussle,Nipsey Hussle,Grinding All My Life,Victory Lap,known,,,,,
+2018-02-23,6ix9ine,6ix9ine,RONDO (feat. Tory Lanez & Young Thug),Day69,known,2018.0,2018-02-23,2018-06-26,-123.0,0.0
+2018-02-23,Vance Joy,Vance Joy,Call If You Need Me,Nation of Two,known,2018.0,2018-02-23,2018-01-07,47.0,1.0
+2018-03-02,Tory Lanez,Tory Lanez,Old Friends x New Foes,Memories Don't Die,known,2018.0,2018-03-02,2018-03-03,-1.0,0.0
+2018-03-03,Tory Lanez,Tory Lanez,Hate To Say,Memories Don't Die,known,2018.0,2018-03-02,2018-03-03,0.0,0.0
+2018-03-09,Lil Yachty,Lil Yachty,66,Lil Boat 2,known,2018.0,2018-03-09,2018-03-10,-1.0,0.0
+2018-03-09,Logic,Logic,Contra,Bobby Tarantino II,surprise,2018.0,2018-03-09,2018-03-10,-1.0,0.0
+2018-03-16,XXXTENTACION,XXXTENTACION,Moonlight,?,known,2018.0,2018-03-16,2018-03-14,2.0,1.0
+2018-03-23,Diplo,Diplo,Color Blind,California,surprise,,,,,
+2018-03-24,at Wendys,at Wendys,Twitter Fingers,We Beefin?,surprise,,,,,
+2018-03-30,Hayley Kiyoko,Hayley Kiyoko,What I Need (feat. Kehlani),Expectations,known,2018.0,2018-03-30,2018-01-29,60.0,1.0
+2018-03-30,Rich The Kid,Rich The Kid,Too Gone (feat. Khalid),The World Is Yours,known,2018.0,2018-03-30,2018-03-16,14.0,1.0
+2018-03-30,The Weeknd,The Weeknd,Call Out My Name,My Dear Melancholy,surprise,2018.0,2018-03-30,2018-03-29,1.0,0.0
+2018-04-04,Cardi B,Cardi B,Drip (feat. Migos),Invasion of Privacy,known,2018.0,2018-04-06,2018-03-27,8.0,1.0
+2018-04-06,Cardi B,Cardi B,I Do (feat. SZA),Invasion of Privacy,known,2018.0,2018-04-06,2018-03-27,10.0,1.0
+2018-04-06,Lil Xan,Lil Xan,Moonlight,Total Xanarchy,known,,,,,
+2018-04-06,Thirty Seconds To Mars,Thirty Seconds To Mars,Love Is Madness,America,known,2018.0,2018-04-06,2018-03-22,15.0,1.0
+2018-04-13,Bazzi,Bazzi,3:15,Cosmic,no_page,,,,,
+2018-04-20,J. Cole,J. Cole,KOD,KOD,known,2018.0,2018-04-20,2018-04-25,-5.0,0.0
+2018-04-27,Janelle Monáe,Janelle Monáe,I Got the Juice (feat. Pharrell Williams),Dirty Computer,known,2018.0,2018-04-27,2018-02-22,64.0,1.0
+2018-04-27,Post Malone,Post Malone,Paranoid,Beerbongs & Bentleys,known,2018.0,2018-04-27,2018-04-05,22.0,1.0
+2018-04-27,YoungBoy Never Broke Again,YoungBoy Never Broke Again,Diamond Teeth Samurai,Until Death Call My Name,known,2018.0,2018-04-27,2018-04-15,12.0,1.0
+2018-05-04,Rae Sremmurd,Rae Sremmurd,Buckets (feat. Future) - From SR3MM,SR3MM,known,,,,,
+2018-05-11,Arctic Monkeys,Arctic Monkeys,Four Out Of Five,Tranquility Base Hotel & Casino,known,2018.0,2018-05-11,2018-04-05,36.0,1.0
+2018-05-11,Charlie Puth,Charlie Puth,Patient,Voicenotes,known,2018.0,2018-05-11,2018-01-04,127.0,1.0
+2018-05-11,Playboi Carti,Playboi Carti,Shoota (feat. Lil Uzi Vert),Die Lit,surprise,,,,,
+2018-05-11,Tee Grizzley,Tee Grizzley,Jettski Grizzley (feat. Lil Pump),Activated,known,,,,,
+2018-05-18,BTS,BTS,FAKE LOVE,Love Yourself: Tear,known,2018.0,2018-05-18,2018-05-07,11.0,1.0
+2018-05-18,KYLE,KYLE,Babies (feat. Alessia Cara),Light of Mine,known,,,,,
+2018-05-18,Lil Baby,Lil Baby,Life Goes On,Harder Than Ever,surprise,,,,,
+2018-05-18,NAV,NAV,Champion (feat. Travis Scott),Reckless,known,,,,,
+2018-05-23,Juice WRLD,Juice WRLD,Lean Wit Me,Goodbye & Good Riddance,surprise,,,,,
+2018-05-24,Juice WRLD,Juice WRLD,I'm Still,Goodbye & Good Riddance,surprise,,,,,
+2018-05-25,A$AP Rocky,A$AP Rocky,Praise The Lord (Da Shine) (feat. Skepta),Testing,known,,,,,
+2018-05-25,G-Eazy,G-Eazy,Power (feat. Nef The Pharaoh & P-Lo),The Vault,no_page,,,,,
+2018-05-25,J Balvin,J Balvin,Cuando Tú Quieras,Vibras,known,2018.0,2018-05-25,2018-04-22,33.0,1.0
+2018-05-25,Pusha T,Pusha T,If You Know You Know,Daytona,known,2018.0,2018-05-25,2018-05-24,1.0,0.0
+2018-05-25,Shawn Mendes,Shawn Mendes,Nervous,Shawn Mendes,known,2018.0,2018-05-25,2018-04-26,29.0,1.0
+2018-06-02,Kanye West,Kanye West,All Mine,Ye,surprise,2018.0,2018-06-01,2018-06-01,1.0,0.0
+2018-06-08,Dierks Bentley,Dierks Bentley,"Woman, Amen",The Mountain,known,,,,,
+2018-06-08,KIDS SEE GHOSTS,Kanye West,Freeee (Ghost Town Pt. 2),Kids See Ghosts,known,,,,,
+2018-06-09,Future,Future,Walk On Minks (Future),Superfly,known,,,,,
+2018-06-15,5 Seconds of Summer,5 Seconds of Summer,Valentine,Youngblood,known,2018.0,2018-06-15,2018-04-09,67.0,1.0
+2018-06-15,Jay Rock,Jay Rock,Wow Freestyle (feat. Kendrick Lamar),Redemption,no_page,2018.0,2018-06-15,2018-06-16,-1.0,0.0
+2018-06-16,Nas,Nas,Cops Shot The Kid,Nasir,no_page,2018.0,2018-06-15,2018-06-15,1.0,0.0
+2018-06-18,The Carters,The Carters,APESHIT,Everything Is Love,known,,,,,
+2018-06-22,Dan + Shay,Dan + Shay,Speechless,Dan + Shay,known,,,,,
+2018-06-22,Panic! At The Disco,Panic! At The Disco,Dancing's Not a Crime,Pray for the Wicked,known,2018.0,2018-06-22,2018-03-22,92.0,1.0
+2018-06-29,Drake,Drake,Nonstop,Scorpion,known,2018.0,2018-06-29,2018-05-24,36.0,1.0
+2018-06-29,Gorillaz,Gorillaz,Tranz,The Now Now,known,2018.0,2018-06-29,2018-05-26,34.0,1.0
+2018-07-06,Future,Future,WIFI LIT,Beast Mode 2,surprise,,,,,
+2018-07-06,Meek Mill,Meek Mill,Dangerous (feat. Jeremih and PnB Rock),Legends of the Summer,surprise,,,,,
+2018-07-13,Wiz Khalifa,Wiz Khalifa,Hot Now,Rolling Papers 2,known,,,,,
+2018-07-20,88rising,88rising,Peach Jam,Head in the Clouds,surprise,2018.0,2018-07-20,2018-08-19,-30.0,0.0
+2018-08-03,Mac Miller,Mac Miller,Ladders,Swimming,known,2018.0,2018-08-03,2018-07-16,18.0,1.0
+2018-08-03,Travis Scott,Travis Scott,STARGAZING,Astroworld,known,2018.0,2018-08-03,2018-08-19,-16.0,0.0
+2018-08-03,YG,YG,SLAY (feat. Quavo),Stay Dangerous,known,2018.0,2018-08-03,2018-08-19,-16.0,0.0
+2018-08-10,Nicki Minaj,Nicki Minaj,Barbie Dreams,Queen,known,2018.0,2018-08-10,2018-05-08,94.0,1.0
+2018-08-10,Trippie Redd,Trippie Redd,Missing My Idols,Life's a Trip,known,2018.0,2018-08-10,2018-08-19,-9.0,0.0
+2018-08-11,Nicki Minaj,Nicki Minaj,Good Form,Queen,known,2018.0,2018-08-10,2018-05-08,95.0,1.0
+2018-08-17,Ariana Grande,Ariana Grande,breathin,Sweetener,known,2018.0,2018-08-17,2018-05-02,107.0,1.0
+2018-08-17,Death Cab for Cutie,Death Cab for Cutie,Northern Lights,Thank You for Today,known,2018.0,2018-08-17,2018-06-20,58.0,1.0
+2018-08-17,Young Thug,Young Thug,Chanel (Go Get It) [feat. Gunna & Lil Baby],Slime Language,surprise,2018.0,2018-08-17,2018-08-19,-2.0,0.0
+2018-08-23,Bas,Bas,Tribe (with J. Cole),Milky Way,no_page,,,,,
+2018-08-24,Ozuna,Ozuna,Ibiza,Aura,known,2018.0,2018-08-24,2018-12-17,-115.0,0.0
+2018-08-25,Ozuna,Ozuna,Quiero Mas,Aura,known,2018.0,2018-08-24,2018-12-17,-114.0,0.0
+2018-08-31,Eminem,Eminem,Lucky You (feat. Joyner Lucas),Kamikaze,surprise,2018.0,2018-08-31,2018-08-31,0.0,0.0
+2018-08-31,Troye Sivan,Troye Sivan,Lucky Strike,Bloom,known,2018.0,2018-08-31,2018-05-15,108.0,1.0
+2018-09-07,$uicideboy$,$uicideboy$,Nicotine Patches,I Want to Die in New Orleans,surprise,,,,,
+2018-09-07,Hozier,Hozier,Nina Cried Power,Nina Cried Power,known,2018.0,2018-09-07,2018-09-06,1.0,0.0
+2018-09-07,Russ,Russ,Missin You Crazy,Zoo,no_page,,,,,
+2018-09-14,6LACK,6LACK,Pretty Little Fears (feat. J. Cole),East Atlanta Love Letter,known,,,,,
+2018-09-14,David Guetta,David Guetta,Say My Name,7,known,2018.0,2018-09-14,2018-08-24,21.0,1.0
+2018-09-21,BROCKHAMPTON,BROCKHAMPTON,NEW ORLEANS,Iridescence,known,2018.0,2018-09-21,2018-10-01,-10.0,0.0
+2018-09-28,Lil Wayne,Lil Wayne,Mona Lisa (feat. Kendrick Lamar),Tha Carter V,known,2018.0,2018-09-28,2018-09-29,-1.0,0.0
+2018-09-28,Logic,Logic,100 Miles and Running (ft. Wale & John Lindahl),YSIV,surprise,2018.0,2018-09-28,2018-10-12,-14.0,0.0
+2018-10-05,Gunna,Gunna,World Is Yours (Lil Baby & Gunna),Drip Harder,known,,,,,
+2018-10-05,LANY,LANY,Malibu Nights,Malibu Nights,known,2018.0,2018-10-05,2018-10-12,-7.0,0.0
+2018-10-05,Lady Gaga,Lady Gaga,I'll Never Love Again - Film Version - Radio Edit,A Star Is Born,no_page,,,,,
+2018-10-05,Lil Baby,Lil Baby,"Never Recover (Lil Baby & Gunna, Drake)",Drip Harder,known,,,,,
+2018-10-05,T.I.,T.I.,Jefe (feat. Meek Mill),Dime Trap,known,,,,,
+2018-10-05,Twenty One Pilots,Twenty One Pilots,Morph,Trench,known,2018.0,2018-10-05,2018-07-12,85.0,1.0
+2018-10-07,Lady Gaga,Lady Gaga,Always Remember Us This Way,A Star Is Born,no_page,,,,,
+2018-10-12,Belly,Belly,Immigrant,Immigrant,surprise,,,,,
+2018-10-12,Ella Mai,Ella Mai,Gut Feeling (feat. H.E.R.),Ella Mai,known,2018.0,2018-10-12,2018-09-22,20.0,1.0
+2018-10-12,Quavo,Quavo,PASS OUT (feat. 21 Savage),Quavo Huncho,known,2018.0,2018-10-12,2019-01-05,-85.0,0.0
+2018-10-19,Future,Future,Jet Lag (feat. Young Scooter),Wrld on Drugs,known,,,,,
+2018-10-19,Juice WRLD,Juice WRLD,Make It Back,Wrld on Drugs,known,,,,,
+2018-10-19,Khalid,Khalid,Vertigo,Suncity,known,,,,,
+2018-10-19,Lil Yachty,Lil Yachty,Get Dripped (feat. Playboi Carti),Nuthin' 2 Prove,known,,,,,
+2018-10-26,Joji,Joji,NO FUN,Ballads 1,known,2018.0,2018-10-26,2018-10-17,9.0,1.0
+2018-10-26,Tory Lanez,Tory Lanez,MiAMi (feat. Gunna),Love Me Now?,known,,,,,
+2018-11-02,Metro Boomin,Metro Boomin,10 Freaky Girls (with 21 Savage),Not All Heroes Wear Capes,known,,,,,
+2018-11-02,Moneybagg Yo,Moneybagg Yo,Say Na (feat. J. Cole),Reset,surprise,,,,,
+2018-11-02,Takeoff,Takeoff,Casper,The Last Rocket,known,2018.0,2018-11-02,2019-01-05,-64.0,0.0
+2018-11-02,Vince Staples,Vince Staples,Feels Like Summer,FM!,surprise,,,,,
+2018-11-08,Lil Peep,Lil Peep,Life is Beautiful,"Come Over When You're Sober, Pt. 2",known,,,,,
+2018-11-09,Imagine Dragons,Imagine Dragons,Bad Liar,Origins,known,2018.0,2018-11-09,2018-10-04,36.0,1.0
+2018-11-09,Jon Bellion,Jon Bellion,Blu,Glory Sound Prep,known,,,,,
+2018-11-09,Lil Peep,Lil Peep,Sex with My Ex,"Come Over When You're Sober, Pt. 2",known,,,,,
+2018-11-09,Tee Grizzley,Tee Grizzley,Bitches On Bitches (feat. Lil Pump),Still My Moment,surprise,,,,,
+2018-11-09,Trippie Redd,Trippie Redd,1400 / 999 Freestyle (feat. Juice WRLD),A Love Letter to You 3,known,,,,,
+2018-11-16,Anderson .Paak,Anderson .Paak,6 Summers,Oxnard,known,2018.0,2018-11-16,2018-12-07,-21.0,0.0
+2018-11-16,Mumford & Sons,Mumford & Sons,Beloved,Delta,known,2018.0,2018-11-16,2018-11-18,-2.0,0.0
+2018-11-26,JID,JID,Westbrook (with A$AP Ferg),DiCaprio 2,no_page,2018.0,2018-11-26,2018-12-17,-21.0,0.0
+2018-11-30,Earl Sweatshirt,Earl Sweatshirt,Shattered Dreams,Some Rap Songs,known,,,,,
+2018-11-30,Lil Baby,Lil Baby,Pure Cocaine,Street Gossip,surprise,,,,,
+2018-11-30,Meek Mill,Meek Mill,Going Bad (feat. Drake),Championships,known,2018.0,2018-11-30,2018-12-17,-17.0,0.0
+2018-11-30,Ski Mask The Slump God,Ski Mask The Slump God,Nuketown,Stokeley,surprise,,,,,
+2018-11-30,The 1975,The 1975,I Always Wanna Die (Sometimes),A Brief Inquiry into Online Relationships,known,2018.0,2018-11-30,2018-06-20,163.0,1.0
+2018-12-01,Meek Mill,Meek Mill,Cold Hearted II,Championships,known,2018.0,2018-11-30,2018-12-17,-16.0,0.0
+2018-12-07,Gucci Mane,Gucci Mane,BiPolar (feat. Quavo),Evil Genius,known,,,,,
+2018-12-07,XXXTENTACION,XXXTENTACION,whoa (mind in awe),Skins,known,,,,,
+2018-12-13,Kodak Black,Kodak Black,MoshPit (feat. Juice WRLD),Dying to Live,known,2018.0,2018-12-14,2018-11-27,16.0,1.0
+2018-12-14,Kodak Black,Kodak Black,Identity Theft,Dying to Live,known,2018.0,2018-12-14,2018-11-27,17.0,1.0
+2018-12-14,The Chainsmokers,The Chainsmokers,Hope,Sick Boy,known,2018.0,2018-12-14,2018-12-15,-1.0,0.0
+2018-12-14,ZAYN,ZAYN,There You Are,Icarus Falls,known,2018.0,2018-12-14,2018-11-29,15.0,1.0
+2018-12-21,21 Savage,21 Savage,a lot,I Am > I Was,surprise,2018.0,2018-12-21,2019-01-05,-15.0,0.0
+2018-12-21,A Boogie Wit da Hoodie,A Boogie Wit da Hoodie,Demons and Angels (feat. Juice WRLD),Hoodie SZN,known,2018.0,2018-12-21,2018-12-11,10.0,1.0
+2018-12-24,Bad Bunny,Bad Bunny,NI BIEN NI MAL,X 100pre,surprise,,,,,
+2019-01-18,Future,Future,First Off (feat. Travis Scott),The Wizrd,known,2019.0,2019-01-18,2019-01-10,8.0,1.0
+2019-01-18,James Blake,James Blake,Mile High (feat. Travis Scott & Metro Boomin),Assume Form,known,2019.0,2019-01-18,2019-01-12,6.0,1.0
+2019-01-18,Maggie Rogers,Maggie Rogers,Burning,Heard It in a Past Life,known,2019.0,2019-01-18,2018-11-20,59.0,1.0
+2019-01-19,YNW Melly,YNW Melly,Mixed Personalities (feat. Kanye West),We All Shine,surprise,,,,,
+2019-01-25,Bring Me The Horizon,Bring Me The Horizon,mother tongue,Amo,known,2019.0,2019-01-25,2018-08-22,156.0,1.0
+2019-01-25,Julia Michaels,Julia Michaels,What A Time (feat. Niall Horan),Inner Monologue Part 1,known,2019.0,2019-01-24,2019-01-28,-3.0,0.0
+2019-01-25,Weezer,Weezer,Take on Me,Weezer (Teal Album),surprise,2019.0,2019-01-24,2019-01-26,-1.0,0.0
+2019-02-08,Ariana Grande,Ariana Grande,"break up with your girlfriend, i'm bored","Thank U, Next",known,2019.0,2019-02-08,2019-01-08,31.0,1.0
+2019-02-15,Avril Lavigne,Avril Lavigne,Dumb Blonde (feat. Nicki Minaj),Head Above Water,known,2019.0,2019-02-15,2018-11-06,101.0,1.0
+2019-02-15,Florida Georgia Line,Florida Georgia Line,Talk You Out Of It,Can't Say I Ain't Country,known,2019.0,2019-02-15,2018-12-23,54.0,1.0
+2019-02-22,Gunna,Gunna,Outstanding,Drip or Drown 2,known,2019.0,2019-02-22,2019-03-09,-15.0,0.0
+2019-02-22,Kehlani,Kehlani,Feels,While We Wait,known,2019.0,2019-02-22,2019-02-15,7.0,1.0
+2019-02-22,Lil Pump,Lil Pump,Be Like Me (feat. Lil Wayne),Harverd Dropout,known,2019.0,2019-02-22,2019-02-17,5.0,1.0
+2019-02-22,Offset,Offset,Legacy (feat. Travis Scott & 21 Savage),Father of 4,surprise,2019.0,2019-02-22,2019-02-26,-4.0,0.0
+2019-03-01,2 Chainz,2 Chainz,Whip (feat. Travis Scott),Rap or Go to the League,known,2019.0,2019-03-01,2019-02-28,1.0,0.0
+2019-03-01,Hozier,Hozier,To Noise Making (Sing),"Wasteland, Baby!",known,2019.0,2019-03-01,2019-01-16,44.0,1.0
+2019-03-01,Solange,Solange,Almeda,When I Get Home,surprise,2019.0,2019-03-01,2019-02-28,1.0,0.0
+2019-03-08,Juice WRLD,Juice WRLD,Fast,Death Race for Love,known,2019.0,2019-03-08,2019-03-06,2.0,1.0
+2019-03-08,Maren Morris,Maren Morris,A Song for Everything,Girl,known,2019.0,2019-03-08,2019-02-09,27.0,1.0
+2019-03-22,NAV,NAV,Price On My Head (feat. The Weeknd),Bad Habits,known,2019.0,2019-03-22,2019-04-14,-23.0,0.0
+2019-03-22,Rich The Kid,Rich The Kid,Fall Threw (feat. Young Thug & Gunna),The World Is Yours 2,known,2019.0,2019-03-22,2019-02-18,32.0,1.0
+2019-03-26,Logic,Logic,Bohemian Trapsody,Supermarket,surprise,2019.0,2019-03-26,2019-03-31,-5.0,0.0
+2019-03-29,Billie Eilish,Billie Eilish,bad guy,"When We All Fall Asleep, Where Do We Go?",known,2019.0,2019-03-29,2019-01-30,58.0,1.0
+2019-04-04,BLACKPINK,BLACKPINK,Kill This Love,Kill This Love,known,2019.0,2019-04-04,2019-05-24,-50.0,0.0
+2019-04-04,Khalid,Khalid,Don't Pretend,Free Spirit,known,2019.0,2019-04-05,2019-02-28,35.0,1.0
+2019-04-05,Khalid,Khalid,Outta My Head (with John Mayer),Free Spirit,known,2019.0,2019-04-05,2019-02-28,36.0,1.0
+2019-04-12,Anderson .Paak,Anderson .Paak,Jet Black (feat. Brandy),Ventura,known,2019.0,2019-04-12,2019-02-28,43.0,1.0
+2019-04-12,BTS,BTS,Boy With Luv (feat. Halsey),Map of the Soul: Persona,known,2019.0,2019-04-12,2019-03-20,23.0,1.0
+2019-04-19,Beyoncé,Beyoncé,Before I Let Go - Homecoming Live Bonus Track,Homecoming: The Live Album,known,2019.0,2019-04-17,2019-05-05,-16.0,0.0
+2019-04-19,Lizzo,Lizzo,Soulmate,Cuz I Love You,known,2019.0,2019-04-19,2019-01-30,79.0,1.0
+2019-04-21,Lizzo,Lizzo,Truth Hurts,Cuz I Love You,known,2019.0,2019-04-19,2019-01-30,81.0,1.0
+2019-04-25,ScHoolboy Q,ScHoolboy Q,CrasH,Crash Talk,known,2019.0,2019-04-26,2019-04-17,8.0,1.0
+2019-04-26,Kevin Abstract,Kevin Abstract,Peach,Arizona Baby,known,2019.0,2019-04-25,2019-05-13,-17.0,0.0
+2019-04-26,ScHoolboy Q,ScHoolboy Q,Floating (feat. 21 Savage),Crash Talk,known,2019.0,2019-04-26,2019-04-17,9.0,1.0
+2019-05-03,Vampire Weekend,Vampire Weekend,Sympathy,Father of the Bride,known,2019.0,2019-05-03,2019-01-24,99.0,1.0
+2019-05-10,Logic,Logic,Icy (feat. Gucci Mane),Confessions of a Dangerous Mind,known,2019.0,2019-05-10,2019-03-21,50.0,1.0
+2019-05-17,DJ Khaled,DJ Khaled,Higher (feat. Nipsey Hussle & John Legend),Father of Asahd,known,2019.0,2019-05-17,2019-03-10,68.0,1.0
+2019-05-17,Maluma,Maluma,11 PM,11:11,known,2019.0,2019-05-17,2019-05-01,16.0,1.0
+2019-05-17,Megan Thee Stallion,Megan Thee Stallion,Cash Shit (feat. DaBaby),Fever,surprise,2019.0,2019-05-17,2019-05-19,-2.0,0.0
+2019-05-17,"Tyler, The Creator","Tyler, The Creator",EARFQUAKE,Igor,known,2019.0,2019-05-17,2019-05-06,11.0,1.0
+2019-05-24,YG,YG,In The Dark,4Real 4Real,known,2019.0,2019-05-24,2019-05-28,-4.0,0.0
+2019-05-31,Denzel Curry,Denzel Curry,AUTOMATIC,Zuu,known,2019.0,2019-05-31,2019-05-23,8.0,1.0
+2019-05-31,Miley Cyrus,Miley Cyrus,Mother's Daughter,She Is Coming,known,2019.0,2019-05-31,2019-05-27,4.0,1.0
+2019-05-31,Thomas Rhett,Thomas Rhett,Blessed,Center Point Road,known,2019.0,2019-05-31,2019-04-02,59.0,1.0
+2019-06-07,Avicii,Avicii,Heaven,Tim,known,2019.0,2019-06-06,2019-04-05,63.0,1.0
+2019-06-07,Future,Future,Government Official,Save Me,known,2019.0,2019-06-07,2019-06-06,1.0,0.0
+2019-06-07,Jonas Brothers,Jonas Brothers,Only Human,Happiness Begins,known,2019.0,2019-06-07,2019-04-22,46.0,1.0
+2019-06-07,Luke Combs,Luke Combs,Even Though I'm Leaving,The Prequel,surprise,2019.0,2019-06-07,2019-06-16,-9.0,0.0
+2019-06-07,Tyga,Tyga,Haute (feat. J Balvin & Chris Brown),Legendary,known,2019.0,2019-06-07,2019-06-03,4.0,1.0
+2019-06-14,GoldLink,GoldLink,Days Like This (feat. Khalid),Diaspora,no_page,2019.0,2019-06-12,2019-06-16,-2.0,0.0
+2019-06-20,Lil Nas X,Lil Nas X,Panini,7,known,2019.0,2019-06-21,2019-05-23,28.0,1.0
+2019-06-21,Gucci Mane,Gucci Mane,Potential (feat. Lil Uzi Vert & Young Dolph),Delusions of Grandeur,surprise,2019.0,2019-06-21,2019-06-22,-1.0,0.0
+2019-06-21,Lil Nas X,Lil Nas X,Rodeo,7,known,2019.0,2019-06-21,2019-05-23,29.0,1.0
+2019-06-21,Mark Ronson,Mark Ronson,Pieces of Us (feat. King Princess),Late Night Feelings,known,2019.0,2019-06-21,2019-02-26,115.0,1.0
+2019-06-27,Chris Brown,Chris Brown,Don't Check On Me (feat. Justin Bieber & Ink),Indigo,known,2019.0,2019-06-28,2019-05-05,53.0,1.0
+2019-06-28,Daniel Caesar,Daniel Caesar,LOVE AGAIN,Case Study 01,surprise,,,,,
+2019-06-28,Mustard,Mustard,"Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",Perfect Ten,known,2019.0,2019-06-28,2019-05-29,30.0,1.0
+2019-06-28,The Black Keys,The Black Keys,Walk Across The Water,Let's Rock,known,2019.0,2019-06-28,2019-04-25,64.0,1.0
+2019-07-03,Marshmello,Marshmello,Down,Joytime III,known,2019.0,2019-07-03,2019-06-01,32.0,1.0
+2019-07-05,Marshmello,Marshmello,Proud,Joytime III,known,2019.0,2019-07-03,2019-06-01,34.0,1.0
+2019-07-06,Jaden,Jaden,Chateau,Erys,known,,,,,
+2019-07-12,Ed Sheeran,Ed Sheeran,Antisocial (with Travis Scott),No.6 Collaborations Project,known,2019.0,2019-07-12,2019-05-24,49.0,1.0
+2019-07-19,Beyoncé,Beyoncé,MOOD 4 EVA (feat. Oumou Sangaré),The Lion King: The Gift,known,2019.0,2019-07-19,2019-12-05,-139.0,0.0
+2019-07-26,Chance the Rapper,Chance the Rapper,All Day Long,The Big Day,known,2019.0,2019-07-26,2019-07-17,9.0,1.0
+2019-07-26,Cordae,Cordae,RNP (feat. Anderson .Paak),The Lost Boy,surprise,,,,,
+2019-07-26,DJ Snake,DJ Snake,"Fuego (with Sean Paul & Anitta, feat. Tainy)",Carte Blanche,known,2019.0,2019-07-26,2019-07-17,9.0,1.0
+2019-07-26,NF,NF,Leave Me Alone,The Search,no_page,2019.0,2019-07-26,2019-06-02,54.0,1.0
+2019-07-26,Rich Brian,Rich Brian,100 Degrees,The Sailor,known,,,,,
+2019-07-27,Chance the Rapper,Chance the Rapper,Zanies and Fools,The Big Day,known,2019.0,2019-07-26,2019-07-17,10.0,1.0
+2019-08-02,Clairo,Clairo,Softly,Immunity,known,2019.0,2019-08-02,2019-06-08,55.0,1.0
+2019-08-02,Tyler Childers,Tyler Childers,Country Squire,Country Squire,surprise,,,,,
+2019-08-09,Bon Iver,Bon Iver,Naeem,"I, I",known,2019.0,2019-08-09,2019-07-11,29.0,1.0
+2019-08-09,Rick Ross,Rick Ross,Running the Streets (feat. A Boogie Wit Da Hoodie & Denzel Curry),Port of Miami 2,known,2019.0,2019-08-09,2019-07-17,23.0,1.0
+2019-08-09,Slipknot,Slipknot,Critical Darling,We Are Not Your Kind,known,2019.0,2019-08-09,2019-05-16,85.0,1.0
+2019-08-09,Trippie Redd,Trippie Redd,!,!,known,2019.0,2019-08-09,2019-08-02,7.0,1.0
+2019-08-16,ILLENIUM,ILLENIUM,In Your Arms (with X Ambassadors),Ascend,known,2019.0,2019-08-16,2019-06-11,66.0,1.0
+2019-08-16,Young Thug,Young Thug,Bad Bad Bad (feat. Lil Baby),So Much Fun,known,2019.0,2019-08-16,2019-10-13,-58.0,0.0
+2019-08-23,BROCKHAMPTON,BROCKHAMPTON,NO HALO,Ginger,known,2019.0,2019-08-23,2019-08-22,1.0,0.0
+2019-08-23,Missy Elliott,Missy Elliott,Throw It Back,Iconology,surprise,2019.0,2019-08-23,2019-08-22,1.0,0.0
+2019-08-23,Taylor Swift,Taylor Swift,The Man,Lover,known,2019.0,2019-08-23,2019-06-13,71.0,1.0
+2019-08-30,Lana Del Rey,Lana Del Rey,Norman fucking Rockwell,Norman Fucking Rockwell!,known,2019.0,2019-08-30,2018-09-18,346.0,1.0
+2019-08-30,Lil Tecca,Lil Tecca,Shots,We Love You Tecca,known,,,,,
+2019-08-30,TOOL,TOOL,Pneuma,Fear Inoculum,known,2019.0,2019-08-30,2019-07-29,32.0,1.0
+2019-08-31,Lil Tecca,Lil Tecca,Molly Girl,We Love You Tecca,known,,,,,
+2019-09-06,Melanie Martinez,Melanie Martinez,Strawberry Shortcake,K–12,surprise,2019.0,2019-09-06,2019-05-15,114.0,1.0
+2019-09-06,Post Malone,Post Malone,Saint-Tropez,Hollywood's Bleeding,known,2019.0,2019-09-06,2019-08-26,11.0,1.0
+2019-09-07,Melanie Martinez,Melanie Martinez,Show & Tell,K–12,surprise,2019.0,2019-09-06,2019-05-15,115.0,1.0
+2019-09-08,Melanie Martinez,Melanie Martinez,Lunchbox Friends,K–12,surprise,2019.0,2019-09-06,2019-05-15,116.0,1.0
+2019-09-13,The Lumineers,The Lumineers,Salt And The Sea,III,known,2019.0,2019-09-13,2019-04-21,145.0,1.0
+2019-09-20,blink-182,blink-182,Pin the Grenade,Nine,known,2019.0,2019-09-20,2019-07-25,57.0,1.0
+2019-09-24,TWICE,TWICE,Feel Special,Feel Special,no_page,2019.0,2019-09-23,2019-09-28,-4.0,0.0
+2019-09-27,DaBaby,DaBaby,BOP,Kirk,known,2019.0,2019-09-27,2019-10-14,-17.0,0.0
+2019-09-27,Kevin Gates,Kevin Gates,By My Lonely,I'm Him,known,,,,,
+2019-10-04,Summer Walker,Summer Walker,Playing Games (with Bryson Tiller) - Extended Version,Over It,known,2019.0,2019-10-04,2019-10-14,-10.0,0.0
+2019-10-11,88rising,88rising,Walking (feat. Swae Lee & Major Lazer),Head in the Clouds II,known,2019.0,2019-10-11,2019-09-13,28.0,1.0
+2019-10-11,Lil Tjay,Lil Tjay,Hold On,True 2 Myself,known,2019.0,2019-10-11,2019-10-15,-4.0,0.0
+2019-10-11,Wale,Wale,Routine (feat. Rick Ross & Meek Mill),Wow... That's Crazy,known,2019.0,2019-10-11,2019-10-15,-4.0,0.0
+2019-10-11,YoungBoy Never Broke Again,YoungBoy Never Broke Again,Make No Sense,AI YoungBoy 2,surprise,2019.0,2019-10-11,2019-10-14,-3.0,0.0
+2019-10-18,Gucci Mane,Gucci Mane,Big Boy Diamonds (feat. Kodak Black & London on Da Track),Woptober II,known,2019.0,2019-10-18,2019-10-17,1.0,0.0
+2019-10-25,Gryffin,Gryffin,Need Your Love (with Noah Kahan),Gravity,known,2019.0,2019-10-24,2019-10-17,8.0,1.0
+2019-10-25,Kanye West,Kanye West,Follow God,Jesus Is King,known,2019.0,2019-10-25,2019-09-10,45.0,1.0
+2019-11-08,Doja Cat,Doja Cat,Candy,Hot Pink,known,2019.0,2019-11-07,2019-11-05,3.0,1.0
+2019-11-08,FKA twigs,FKA twigs,sad day,Magdalene,known,2019.0,2019-11-08,2019-09-09,60.0,1.0
+2019-11-08,Lil Mosey,Lil Mosey,Live This Wild,Certified Hitmaker,known,,,,,
+2019-11-08,Luke Combs,Luke Combs,Better Together,What You See Is What You Get,known,2019.0,2019-11-08,2019-09-13,56.0,1.0
+2019-11-15,Tory Lanez,Tory Lanez,Beauty In The Benz (feat. Snoop Dogg),Chixtape 5,known,2019.0,2019-11-15,2019-11-10,5.0,1.0
+2019-11-22,Coldplay,Coldplay,Champion Of The World,Everyday Life,known,2019.0,2019-11-22,2019-10-21,32.0,1.0
+2019-11-22,Trippie Redd,Trippie Redd,6 Kiss (feat. Juice WRLD & YNW Melly),A Love Letter to You 4,known,2019.0,2019-11-22,2019-11-12,10.0,1.0
+2019-11-22,YNW Melly,YNW Melly,Bang Bang,Melly vs. Melvin,known,,,,,
+2019-12-06,Camila Cabello,Camila Cabello,My Oh My (feat. DaBaby),Romance,known,2019.0,2019-12-06,2019-09-05,92.0,1.0
+2019-12-06,Roddy Ricch,Roddy Ricch,Peta (feat. Meek Mill),Please Excuse Me for Being Antisocial,known,2019.0,2019-12-06,2019-12-04,2.0,1.0
+2019-12-06,The Chainsmokers,The Chainsmokers,Family,World War Joy,known,2019.0,2019-12-06,2019-03-29,252.0,1.0
+2019-12-06,XXXTENTACION,XXXTENTACION,Ex Bitch,Bad Vibes Forever,known,2019.0,2019-12-06,2019-11-05,31.0,1.0
+2019-12-13,Harry Styles,Harry Styles,Falling,Fine Line,known,2019.0,2019-12-13,2019-11-04,39.0,1.0
+2019-12-13,Smokepurpp,Smokepurpp,What I Please (feat. Denzel Curry),Deadstar 2,known,,,,,
+2019-12-27,JACKBOYS,JACKBOYS,OUT WEST (feat. Young Thug),JackBoys,surprise,,,,,
+2019-12-27,Travis Scott,Travis Scott,HIGHEST IN THE ROOM (feat. ROSALÍA & Lil Baby) - REMIX,JackBoys,surprise,,,,,
+2020-01-10,Selena Gomez,Selena Gomez,Rare,Rare,known,2020.0,2020-01-10,2019-12-12,29.0,1.0
+2020-01-17,Chelsea Cutler,Chelsea Cutler,Sad Tonight,How to Be Human,no_page,2020.0,2020-01-17,2020-01-21,-4.0,0.0
+2020-01-17,Eminem,Eminem,Godzilla (feat. Juice WRLD),Music to Be Murdered By,surprise,2020.0,2020-01-17,2020-01-17,0.0,0.0
+2020-01-17,Halsey,Halsey,Still Learning,Manic,known,2020.0,2020-01-17,2019-09-13,126.0,1.0
+2020-01-17,Mac Miller,Mac Miller,Circles,Circles,known,2020.0,2020-01-17,2020-01-09,8.0,1.0
+2020-01-31,Kesha,Kesha,Tonight,High Road,known,2020.0,2020-01-31,2019-10-24,99.0,1.0
+2020-01-31,Lil Wayne,Lil Wayne,"I Do It (ft. Big Sean, Lil Baby)",Funeral,known,2020.0,2020-01-31,2020-01-24,7.0,1.0
+2020-01-31,Meghan Trainor,Meghan Trainor,Nice to Meet Ya (feat. Nicki Minaj),Treat Myself,known,2020.0,2020-01-31,2019-10-04,119.0,1.0
+2020-02-07,Denzel Curry,Denzel Curry,DIET_,Unlocked,surprise,,,,,
+2020-02-14,A Boogie Wit da Hoodie,A Boogie Wit da Hoodie,"Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",Artist 2.0,known,2020.0,2020-02-14,2020-02-12,2.0,1.0
+2020-02-14,Justin Bieber,Justin Bieber,Forever (feat. Post Malone & Clever),Changes,known,2020.0,2020-02-14,2020-01-27,18.0,1.0
+2020-02-14,Tame Impala,Tame Impala,Breathe Deeper,The Slow Rush,known,2020.0,2020-02-14,2019-10-25,112.0,1.0
+2020-02-21,BTS,BTS,ON (Feat. Sia),Map of the Soul: 7,known,2020.0,2020-02-21,2020-01-07,45.0,1.0
+2020-02-21,Ozzy Osbourne,Ozzy Osbourne,It's A Raid (feat. Post Malone),Ordinary Man,known,2020.0,2020-02-21,2019-11-14,99.0,1.0
+2020-02-28,Lil Baby,Lil Baby,Heatin Up (feat. Gunna),My Turn,known,2020.0,2020-02-28,2020-02-28,0.0,0.0
+2020-02-29,Bad Bunny,Bad Bunny,La Difícil,YHLQMDLG,known,2020.0,2020-02-29,2020-02-29,0.0,0.0
+2020-03-06,Jhené Aiko,Jhené Aiko,B.S. (feat. H.E.R.),Chilombo,known,2020.0,2020-03-06,2020-02-21,14.0,1.0
+2020-03-06,Lauv,Lauv,Invisible Things,How I'm Feeling,known,2020.0,2020-03-06,2019-10-02,156.0,1.0
+2020-03-06,Lil Uzi Vert,Lil Uzi Vert,Baby Pluto,Eternal Atake,known,2020.0,2020-03-06,2020-03-05,1.0,0.0
+2020-03-06,Megan Thee Stallion,Megan Thee Stallion,Captain Hook,Suga,surprise,2020.0,2020-03-06,2020-01-19,47.0,1.0
+2020-03-07,Lauv,Lauv,Who,How I'm Feeling,known,2020.0,2020-03-06,2019-10-02,157.0,1.0
+2020-03-13,Don Toliver,Don Toliver,Cardigan,Heaven or Hell,known,2020.0,2020-03-13,2020-03-12,1.0,0.0
+2020-03-13,Niall Horan,Niall Horan,Black And White,Heartbreak Weather,known,2020.0,2020-03-13,2020-02-07,35.0,1.0
+2020-03-20,Conan Gray,Conan Gray,Wish You Were Sober,Kid Krow,known,2020.0,2020-03-20,2020-01-09,71.0,1.0
+2020-03-20,J Balvin,J Balvin,Amarillo,Colores,known,2020.0,2020-03-19,2020-03-07,13.0,1.0
+2020-03-20,Kelsea Ballerini,Kelsea Ballerini,the other girl (with Halsey),Kelsea,known,2020.0,2020-03-20,2020-01-28,52.0,1.0
+2020-03-20,The Weeknd,The Weeknd,Alone Again,After Hours,known,2020.0,2020-03-20,2020-02-17,32.0,1.0
+2020-03-22,Childish Gambino,Childish Gambino,0.00,3.15.20,surprise,2020.0,2020-03-22,2020-03-22,0.0,0.0
+2020-03-26,Dua Lipa,Dua Lipa,Break My Heart,Future Nostalgia,known,2020.0,2020-03-27,2019-12-01,116.0,1.0
+2020-03-27,5 Seconds of Summer,5 Seconds of Summer,Wildflower,Calm,known,2020.0,2020-03-27,2020-02-05,51.0,1.0
+2020-03-27,Dua Lipa,Dua Lipa,Hallucinate,Future Nostalgia,known,2020.0,2020-03-27,2019-12-01,117.0,1.0
+2020-03-27,Joyner Lucas,Joyner Lucas,Will,ADHD,known,2020.0,2020-03-27,2020-02-29,27.0,1.0
+2020-03-27,PARTYNEXTDOOR,PARTYNEXTDOOR,BELIEVE IT,Partymobile,known,2020.0,2020-03-27,2020-02-22,34.0,1.0
+2020-04-03,Rod Wave,Rod Wave,Pray 4 Love,Pray 4 Love,known,,,,,
+2020-04-03,Sam Hunt,Sam Hunt,2016,Southside,known,2020.0,2020-04-03,2020-02-05,58.0,1.0
+2020-04-10,The Strokes,The Strokes,Brooklyn Bridge To Chorus,The New Abnormal,known,2020.0,2020-04-10,2020-02-08,62.0,1.0
+2020-04-10,Tory Lanez,Tory Lanez,Stupid Again,The New Toronto 3,known,2020.0,2020-04-10,2020-03-25,16.0,1.0
+2020-04-17,DaBaby,DaBaby,ROCKSTAR (feat. Roddy Ricch),Blame It on Baby,known,2020.0,2020-04-17,2020-04-17,0.0,0.0
+2020-04-17,Fiona Apple,Fiona Apple,I Want You To Love Me,Fetch the Bolt Cutters,known,2020.0,2020-04-17,2020-03-16,32.0,1.0
+2020-04-17,Jeremy Zucker,Jeremy Zucker,somebody loves you,Love Is Not Dying,no_page,2020.0,2020-04-17,2020-04-01,16.0,1.0
+2020-04-24,Alina Baraz,Alina Baraz,Off the Grid (feat. Khalid),It Was Divine,no_page,2020.0,2020-04-24,2020-05-24,-30.0,0.0
+2020-05-01,Drake,Drake,Pain 1993 (with Playboi Carti),Dark Lane Demo Tapes,surprise,2020.0,2020-05-01,2020-05-01,0.0,0.0
+2020-05-01,Kenny Chesney,Kenny Chesney,Happy Does,Here and Now,known,2020.0,2020-05-01,2020-04-26,5.0,1.0
+2020-05-08,Hailee Steinfeld,Hailee Steinfeld,End This (L.O.V.E.),Half Written Story,known,2020.0,2020-05-08,2020-04-27,11.0,1.0
+2020-05-08,Kehlani,Kehlani,Can I,It Was Good Until It Wasn't,known,2020.0,2020-05-08,2020-04-24,14.0,1.0
+2020-05-08,Lil Durk,Lil Durk,3 Headed Goat (feat. Lil Baby & Polo G),Just Cause Y'all Waited 2,surprise,2020.0,2020-05-08,2020-05-07,1.0,0.0
+2020-05-08,NAV,NAV,Codeine (feat. Gunna),Good Intentions,known,2020.0,2020-05-08,2020-05-06,2.0,1.0
+2020-05-10,Bad Bunny,Bad Bunny,SI ELLA SALE,Las que no iban a salir,surprise,2020.0,2020-05-10,2020-05-11,-1.0,0.0
+2020-05-15,Charli xcx,Charli xcx,enemy,How I'm Feeling Now,known,2020.0,2020-05-15,2020-04-10,35.0,1.0
+2020-05-15,Future,Future,Solitaires (feat. Travis Scott),High Off Life,known,2020.0,2020-05-15,2020-05-13,2.0,1.0
+2020-05-15,Polo G,Polo G,Flex (feat. Juice WRLD),The Goat,known,2020.0,2020-05-15,2020-05-28,-13.0,0.0
+2020-05-22,Agust D,Agust D,Daechwita,D-2,surprise,2020.0,2020-05-22,2020-07-24,-63.0,0.0
+2020-05-22,Carly Rae Jepsen,Carly Rae Jepsen,This Love Isn't Crazy,Dedicated Side B,surprise,2020.0,2020-05-21,2020-05-21,1.0,0.0
+2020-05-22,Gunna,Gunna,COOLER THAN A BITCH (feat. Roddy Ricch),Wunna,known,2020.0,2020-05-22,2020-05-22,0.0,0.0
+2020-05-22,The 1975,The 1975,Tonight (I Wish I Was Your Boy),Notes on a Conditional Form,known,2020.0,2020-05-22,2019-07-26,301.0,1.0
+2020-05-27,Lil Yachty,Lil Yachty,Split/Whole Time,Lil Boat 3,known,2020.0,2020-05-29,2020-05-21,6.0,1.0
+2020-05-28,Lady Gaga,Lady Gaga,Sour Candy (with BLACKPINK),Chromatica,known,2020.0,2020-05-29,2020-03-02,87.0,1.0
+2020-05-29,Anuel AA,Anuel AA,Jangueo,Emmanuel,surprise,2020.0,2020-05-29,2020-05-29,0.0,0.0
+2020-05-29,Diplo,Diplo,Dance with Me (feat. Thomas Rhett & Young Thug),"Diplo Presents Thomas Wesley, Chapter 1: Snake Oil",surprise,2020.0,2020-05-29,2020-04-17,42.0,1.0
+2020-05-29,Freddie Gibbs,Freddie Gibbs,"Something to Rap About (feat. Tyler, The Creator)",Alfredo,surprise,,,,,
+2020-05-29,Kygo,Kygo,Broken Glass,Golden Hour,known,2020.0,2020-05-29,2020-03-23,67.0,1.0
+2020-05-29,Lady Gaga,Lady Gaga,Alice,Chromatica,known,2020.0,2020-05-29,2020-03-02,88.0,1.0
+2020-05-29,Lil Yachty,Lil Yachty,"T.D (Lil Yachty & Tierra Whack feat. A$AP Rocky & Tyler, The Creator)",Lil Boat 3,known,2020.0,2020-05-29,2020-05-21,8.0,1.0
+2020-06-01,TWICE,TWICE,MORE & MORE,More & More,no_page,2020.0,2020-06-01,2020-05-04,28.0,1.0
+2020-06-03,Run The Jewels,Run The Jewels,yankee and the brave (ep. 4),RTJ4,known,2020.0,2020-06-03,2020-06-04,-1.0,0.0
+2020-06-04,Run The Jewels,Run The Jewels,pulling the pin (feat. Mavis Staples & Josh Homme),RTJ4,known,2020.0,2020-06-03,2020-06-04,0.0,0.0
+2020-06-12,Chloe x Halle,Chloe x Halle,Do It,Ungodly Hour,known,2020.0,2020-06-12,2020-05-14,29.0,1.0
+2020-06-12,iann dior,iann dior,Pretty Girls,I'm Gone,no_page,2020.0,2020-06-12,2020-06-12,0.0,0.0
+2020-06-19,John Legend,John Legend,"U Move, I Move (feat. Jhene Aiko)",Bigger Love,known,2020.0,2020-06-19,2020-05-13,37.0,1.0
+2020-06-19,Tee Grizzley,Tee Grizzley,Lions & Eagles (feat. Meek Mill),The Smartest,surprise,2020.0,2020-06-19,2020-06-20,-1.0,0.0
+2020-06-19,Teyana Taylor,Teyana Taylor,Boomin (feat. Missy Elliott & Future),The Album,known,2020.0,2020-06-19,2020-06-19,0.0,0.0
+2020-06-26,6LACK,6LACK,Know My Rights (feat. Lil Baby),6pc Hot EP,surprise,2020.0,2020-06-26,2020-06-28,-2.0,0.0
+2020-06-26,G-Eazy,G-Eazy,Had Enough,Everything's Strange Here,known,2020.0,2020-06-26,2020-06-01,25.0,1.0
+2020-06-26,Louis The Child,Louis The Child,Big Love (with EARTHGANG & MNDR),Here for Now,known,2020.0,2020-06-26,2020-05-20,37.0,1.0
+2020-07-03,Pop Smoke,Pop Smoke,For The Night,"Shoot for the Stars, Aim for the Moon",known,2020.0,2020-07-03,2020-06-17,16.0,1.0
+2020-07-09,Juice WRLD,Juice WRLD,Come & Go (with Marshmello),Legends Never Die,known,2020.0,2020-07-10,2020-07-07,2.0,1.0
+2020-07-10,100 gecs,100 gecs,"hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",1000 Gecs and the Tree of Clues,known,2020.0,2020-07-10,2020-12-17,-160.0,0.0
+2020-07-10,Juice WRLD,Juice WRLD,Conversations,Legends Never Die,known,2020.0,2020-07-10,2020-07-07,3.0,1.0
+2020-07-10,Summer Walker,Summer Walker,My Affection (with PARTYNEXTDOOR),Life on Earth,no_page,2020.0,2020-07-10,2020-07-03,7.0,1.0
+2020-07-17,Ellie Goulding,Ellie Goulding,Love I’m Given,Brightest Blue,known,2020.0,2020-07-17,2020-05-27,51.0,1.0
+2020-07-17,KYLE,KYLE,Money Now (feat. Tyga & Johnny Yukon),See You When I Am Famous,surprise,2020.0,2020-07-17,2020-07-18,-1.0,0.0
+2020-07-17,Oliver Tree,Oliver Tree,Jerk,Ugly Is Beautiful,known,2020.0,2020-07-17,2020-03-10,129.0,1.0
+2020-07-24,Logic,Logic,Perfect,No Pressure,known,2020.0,2020-07-24,2020-07-17,7.0,1.0
+2020-07-24,Taylor Swift,Taylor Swift,the 1,Folklore,surprise,2020.0,2020-07-24,2020-07-23,1.0,0.0
+2020-07-24,The Kid LAROI,The Kid LAROI,WRONG (feat. Lil Mosey),F*ck Love,surprise,2020.0,2020-07-24,2020-08-03,-10.0,0.0
+2020-07-31,Dominic Fike,Dominic Fike,Vampire,What Could Possibly Go Wrong,known,2020.0,2020-07-31,2020-07-09,22.0,1.0
+2020-08-07,Aminé,Aminé,Woodlawn,Limbo,no_page,2020.0,2020-08-07,2020-07-19,19.0,1.0
+2020-08-07,Glass Animals,Glass Animals,Tangerine,Dreamland,known,2020.0,2020-08-07,2020-05-02,97.0,1.0
+2020-08-14,Kane Brown,Kane Brown,Worship You,"Mixtape, Vol. 1",surprise,2020.0,2020-08-14,2020-08-11,3.0,1.0
+2020-08-21,The Killers,The Killers,Blowback,Imploding the Mirage,known,2020.0,2020-08-21,2019-12-29,236.0,1.0
+2020-08-21,Troye Sivan,Troye Sivan,IN A DREAM,In a Dream,known,2020.0,2020-08-21,2020-07-15,37.0,1.0
+2020-08-21,blackbear,blackbear,if I were u (with Lauv),Everything Means Nothing,known,2020.0,2020-08-21,2020-07-12,40.0,1.0
+2020-08-28,Disclosure,Disclosure,Birthday,Energy,known,2020.0,2020-08-28,2020-05-21,99.0,1.0
+2020-08-28,Dua Lipa,Dua Lipa,Physical (feat. Gwen Stefani) [Mark Ronson Remix] [Mixed],Club Future Nostalgia,known,2020.0,2020-08-28,2020-08-21,7.0,1.0
+2020-08-28,Internet Money,Internet Money,Blastoff (feat. Juice WRLD),B4 the Storm,known,2020.0,2020-08-28,2020-09-07,-10.0,0.0
+2020-08-28,Jaden,Jaden,Falling For You with Justin Bieber,CTV3: Cool Tape Vol. 3,surprise,,,,,
+2020-08-28,Katy Perry,Katy Perry,Cry About It Later,Smile,known,2020.0,2020-08-28,2020-07-09,50.0,1.0
+2020-09-04,6ix9ine,6ix9ine,"LOCKED UP, PT. 2",TattleTales,known,2020.0,2020-09-04,2020-08-27,8.0,1.0
+2020-09-04,Big Sean,Big Sean,Lithuania (feat. Travis Scott),Detroit 2,known,2020.0,2020-09-04,2020-08-28,7.0,1.0
+2020-09-04,Ozuna,Ozuna,Del Mar,Enoc,surprise,2020.0,2020-09-04,2020-09-04,0.0,0.0
+2020-09-11,YoungBoy Never Broke Again,YoungBoy Never Broke Again,My Window (feat. Lil Wayne),Top,known,2020.0,2020-09-11,2020-09-06,5.0,1.0
+2020-09-18,Keith Urban,Keith Urban,One Too Many,The Speed of Now Part 1,known,2020.0,2020-09-18,2020-05-15,126.0,1.0
+2020-09-18,Lil Tecca,Lil Tecca,Dolly (with Lil Uzi Vert),Virgo World,known,2020.0,2020-09-18,2020-09-18,0.0,0.0
+2020-09-18,MAX,MAX,Blueberry Eyes (feat. SUGA of BTS),Heaven & Hell,known,,,,,
+2020-09-18,Moneybagg Yo,Moneybagg Yo,Said Sum (feat. City Girls & DaBaby) - Remix,Code Red,no_page,,,,,
+2020-09-25,Joji,Joji,Ew,Nectar,known,2020.0,2020-09-25,2020-04-17,161.0,1.0
+2020-09-25,Melanie Martinez,Melanie Martinez,The Bakery,After School,known,2020.0,2020-09-25,2020-01-12,257.0,1.0
+2020-09-25,Tory Lanez,Tory Lanez,Money Over Fallouts,Daystar,surprise,,,,,
+2020-10-02,21 Savage,21 Savage,Runnin,Savage Mode II,known,,,,,
+2020-10-02,BLACKPINK,BLACKPINK,Bet You Wanna (feat. Cardi B),The Album,known,2020.0,2020-10-02,2020-07-28,66.0,1.0
+2020-10-02,Bryson Tiller,Bryson Tiller,Outta Time (feat. Drake),Anniversary,known,2020.0,2020-10-02,2020-10-01,1.0,0.0
+2020-10-02,GIVĒON,GIVĒON,Stuck On You,When It's All Said and Done,surprise,,,,,
+2020-10-02,LANY,LANY,heart won't let me,Mama's Boy,known,2020.0,2020-10-02,2020-05-18,137.0,1.0
+2020-10-02,YG,YG,Blood Walk,My Life 4Hunnid,known,2020.0,2020-10-02,2020-10-02,0.0,0.0
+2020-10-16,T.I.,T.I.,Pardon (feat. Lil Baby),The L.I.B.R.A.,surprise,2020.0,2020-10-16,2020-10-17,-1.0,0.0
+2020-10-22,Ty Dolla $ign,Ty Dolla $ign,Spicy (feat. Post Malone),Featuring Ty Dolla Sign,known,,,,,
+2020-10-23,Major Lazer,Major Lazer,Hell and High Water,Music Is the Weapon,known,2020.0,2020-10-23,2020-09-30,23.0,1.0
+2020-10-23,Ty Dolla $ign,Ty Dolla $ign,"Track 6 (feat. Kanye West, Anderson .Paak & Thundercat)",Featuring Ty Dolla Sign,known,,,,,
+2020-10-27,TWICE,TWICE,I CAN'T STOP ME,Eyes Wide Open,known,2020.0,2020-10-26,2020-10-24,3.0,1.0
+2020-10-30,Ariana Grande,Ariana Grande,34+35,Positions,known,2020.0,2020-10-30,2020-10-18,12.0,1.0
+2020-10-30,Busta Rhymes,Busta Rhymes,Look Over Your Shoulder (feat. Kendrick Lamar),Extinction Level Event 2: The Wrath of God,known,2020.0,2020-10-30,2020-10-27,3.0,1.0
+2020-10-30,Sam Smith,Sam Smith,Kids Again,Love Goes,known,2020.0,2020-10-30,2020-09-17,43.0,1.0
+2020-10-30,Trippie Redd,Trippie Redd,Never Change (feat. Future),Pegasus,known,2020.0,2020-10-30,2020-07-19,103.0,1.0
+2020-11-06,NAV,NAV,Young Wheezy (with Gunna),Emergency Tsunami,known,,,,,
+2020-11-13,2 Chainz,2 Chainz,Save Me (feat. YoungBoy Never Broke Again),So Help Me God!,surprise,2020.0,2020-11-13,2020-08-17,88.0,1.0
+2020-11-13,Chris Stapleton,Chris Stapleton,You Should Probably Leave,Starting Over,known,2020.0,2020-11-13,2020-10-31,13.0,1.0
+2020-11-20,BTS,BTS,Life Goes On,Be,known,2020.0,2020-11-20,2020-09-29,52.0,1.0
+2020-11-20,Megan Thee Stallion,Megan Thee Stallion,Circles,Good News,known,2020.0,2020-11-20,2020-11-12,8.0,1.0
+2020-11-27,Bad Bunny,Bad Bunny,TE MUDASTE,El Último Tour Del Mundo,known,2020.0,2020-11-27,2020-11-26,1.0,0.0
+2020-11-27,Miley Cyrus,Miley Cyrus,Angels Like You,Plastic Hearts,known,2020.0,2020-11-27,2020-10-23,35.0,1.0
+2020-11-28,Miley Cyrus,Miley Cyrus,Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks),Plastic Hearts,known,2020.0,2020-11-27,2020-10-23,36.0,1.0
+2020-12-04,Shawn Mendes,Shawn Mendes,Teach Me How To Love,Wonder,known,2020.0,2020-12-04,2020-09-30,65.0,1.0
+2020-12-04,YUNGBLUD,YUNGBLUD,acting like that (feat. Machine Gun Kelly),Weird!,known,2020.0,2020-12-04,2020-09-18,77.0,1.0
+2020-12-10,Jack Harlow,Jack Harlow,Way Out (feat. Big Sean),Thats What They All Say,known,2020.0,2020-12-11,2020-12-06,4.0,1.0
+2020-12-11,Jack Harlow,Jack Harlow,Face Of My City (feat. Lil Baby),Thats What They All Say,known,2020.0,2020-12-11,2020-12-06,5.0,1.0
+2020-12-11,Kid Cudi,Kid Cudi,Tequila Shots,Man on the Moon III: The Chosen,known,2020.0,2020-12-11,2020-12-07,4.0,1.0
+2020-12-11,Taylor Swift,Taylor Swift,willow,Evermore,known,2020.0,2020-12-11,2020-12-10,1.0,0.0
+2020-12-25,Playboi Carti,Playboi Carti,Go2DaMoon (feat. Kanye West),Whole Lotta Red,known,2020.0,2020-12-25,2020-12-19,6.0,1.0
+2021-01-08,Jazmine Sullivan,Jazmine Sullivan,Girl Like Me (feat. H.E.R.),Heaux Tales,known,2021.0,2021-01-08,2020-12-02,37.0,1.0
+2021-01-08,Morgan Wallen,Morgan Wallen,Wasted On You,Dangerous: The Double Album,known,2021.0,2021-01-08,2020-11-23,46.0,1.0
+2021-01-15,ZAYN,ZAYN,Connexion,Nobody Is Listening,known,2021.0,2021-01-15,2021-01-07,8.0,1.0
+2021-01-22,Anuel AA,Anuel AA,Antes,Los Dioses,known,,,,,
+2021-02-05,Foo Fighters,Foo Fighters,Making A Fire,Medicine at Midnight,known,2021.0,2021-02-05,2020-11-08,89.0,1.0
+2021-02-05,Jeremy Zucker,Jeremy Zucker,emily,Brent II,no_page,,,,,
+2021-02-05,Pooh Shiesty,Pooh Shiesty,Neighbors (feat. BIG30),Shiesty Season,known,2021.0,2021-02-05,2021-02-07,-2.0,0.0
+2021-02-12,Florida Georgia Line,Florida Georgia Line,Always Gonna Love You,Life Rolls On,known,2021.0,2021-02-12,2020-12-04,70.0,1.0
+2021-02-26,Madison Beer,Madison Beer,Blue,Life Support,known,2021.0,2021-02-26,2020-10-21,128.0,1.0
+2021-03-05,Drake,Drake,What’s Next,Scary Hours 2,surprise,2021.0,2021-03-05,2021-03-05,0.0,0.0
+2021-03-05,Quinn XCII,Quinn XCII,We Don’t Talk Enough (with Alexander 23),Change of Scenery II,no_page,2021.0,2021-03-05,2021-03-05,0.0,0.0
+2021-03-12,Nick Jonas,Nick Jonas,2Drunk,Spaceman,known,2021.0,2021-03-12,2021-02-25,15.0,1.0
+2021-03-12,Selena Gomez,Selena Gomez,Dámelo To’ (feat. Myke Towers),Revelación,known,2021.0,2021-03-12,2021-01-27,44.0,1.0
+2021-03-19,Justin Bieber,Justin Bieber,Peaches (feat. Daniel Caesar & Giveon),Justice,known,2021.0,2021-03-19,2021-02-26,21.0,1.0
+2021-03-19,Lana Del Rey,Lana Del Rey,White Dress,Chemtrails over the Country Club,known,2021.0,2021-03-19,2020-11-30,109.0,1.0
+2021-03-24,Rod Wave,Rod Wave,Tombstone,SoulFly,known,2021.0,2021-03-26,2021-03-24,0.0,0.0
+2021-03-26,24kGoldn,24kGoldn,Company (feat. Future),El Dorado,known,2021.0,2021-03-26,2020-12-05,111.0,1.0
+2021-03-26,AJR,AJR,3 O'Clock Things,OK Orchestra,known,2021.0,2021-03-26,2021-01-01,84.0,1.0
+2021-03-26,KAROL G,KAROL G,EL MAKINON,KG0516,known,2021.0,2021-03-26,2021-03-27,-1.0,0.0
+2021-03-26,NF,NF,JUST LIKE YOU,Clouds (The Mixtape),known,2021.0,2021-03-26,2021-02-23,31.0,1.0
+2021-03-26,Rod Wave,Rod Wave,Richer (feat. Polo G),SoulFly,known,2021.0,2021-03-26,2021-03-24,2.0,1.0
+2021-04-02,Demi Lovato,Demi Lovato,Met Him Last Night (feat. Ariana Grande),Dancing with the Devil... the Art of Starting Over,known,2021.0,2021-04-02,2021-03-16,17.0,1.0
+2021-04-02,Lil Tjay,Lil Tjay,Run It Up (feat. Offset & Moneybagg Yo),Destined 2 Win,known,2021.0,2021-04-02,2021-03-30,3.0,1.0
+2021-04-07,Taylor Swift,Taylor Swift,Mr. Perfectly Fine (Taylor’s Version) (From The Vault),Fearless (Taylor's Version),known,2021.0,2021-04-09,2021-03-25,13.0,1.0
+2021-04-09,BROCKHAMPTON,BROCKHAMPTON,BANKROLL (feat. A$AP Rocky & A$AP Ferg),"Roadrunner: New Light, New Machine",known,2021.0,2021-04-09,2021-03-26,14.0,1.0
+2021-04-09,Taylor Swift,Taylor Swift,Fearless (Taylor’s Version),Fearless (Taylor's Version),known,2021.0,2021-04-09,2021-03-25,15.0,1.0
+2021-04-23,Cordae,Cordae,Wassup (feat. Young Thug),Just Until...,surprise,2021.0,2021-04-21,2021-04-21,2.0,1.0
+2021-04-23,Lil Yachty,Lil Yachty,G.I. Joe (feat. Louie Ray),Michigan Boy Boat,known,2021.0,2021-04-23,2021-04-23,0.0,0.0
+2021-04-23,Moneybagg Yo,Moneybagg Yo,Shottas (Lala),A Gangsta's Pain,known,2021.0,2021-04-23,2021-04-15,8.0,1.0
+2021-04-30,DJ Khaled,DJ Khaled,"I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",Khaled Khaled,known,2021.0,2021-04-30,2021-04-28,2.0,1.0
+2021-04-30,Thomas Rhett,Thomas Rhett,Country Again,Country Again: Side A,known,2021.0,2021-04-30,2021-03-05,56.0,1.0
+2021-04-30,girl in red,girl in red,Body And Mind,If I Could Make It Go Quiet,known,2021.0,2021-04-30,2021-03-01,60.0,1.0
+2021-05-07,Bebe Rexha,Bebe Rexha,Break My Heart Myself (feat. Travis Barker),Better Mistakes,known,2021.0,2021-05-07,2021-04-14,23.0,1.0
+2021-05-07,Tee Grizzley,Tee Grizzley,In My Feelings (feat. Quavo & Young Dolph),Built for Whatever,surprise,2021.0,2021-05-07,2021-06-30,-54.0,0.0
+2021-05-10,Lovejoy,Lovejoy,One Day,Are You Alright?,surprise,,,,,
+2021-05-11,Lovejoy,Lovejoy,Taunt,Are You Alright?,surprise,,,,,
+2021-05-14,21 Savage,21 Savage,Emergency (feat. Gunna & Young Thug),Spiral: From the Book of Saw Soundtrack,no_page,2021.0,2021-05-14,2021-08-30,-108.0,0.0
+2021-05-14,J. Cole,J. Cole,a m a r i,The Off-Season,known,2021.0,2021-05-14,2021-05-05,9.0,1.0
+2021-05-21,42 Dugg,42 Dugg,Maybach (feat. Future),Free Dem Boyz,surprise,2021.0,2021-05-21,2021-06-03,-13.0,0.0
+2021-05-21,Olivia Rodrigo,Olivia Rodrigo,brutal,Sour,known,2021.0,2021-05-21,2021-04-13,38.0,1.0
+2021-05-21,Twenty One Pilots,Twenty One Pilots,Saturday,Scaled and Icy,known,2021.0,2021-05-21,2021-04-07,44.0,1.0
+2021-05-28,DMX,DMX,Bath Salts (feat. JAY-Z & Nas),Exodus,known,2021.0,2021-05-28,2021-05-10,18.0,1.0
+2021-06-01,TOMORROW X TOGETHER,TOMORROW X TOGETHER,Anti-Romantic,The Chaos Chapter: Freeze,known,2021.0,2021-05-31,2021-04-30,32.0,1.0
+2021-06-04,Lil Baby,Lil Baby,Hats Off (feat. Travis Scott),The Voice of the Heroes,known,,,,,
+2021-06-10,Bo Burnham,Bo Burnham,All Eyes On Me,Inside (The Songs),surprise,2021.0,2021-06-10,2021-07-09,-29.0,0.0
+2021-06-11,Maroon 5,Maroon 5,Lost,Jordi,known,2021.0,2021-06-11,2021-04-29,43.0,1.0
+2021-06-11,Marshmello,Marshmello,Shockwave,Shockwave,known,2021.0,2021-06-11,2021-06-11,0.0,0.0
+2021-06-11,Migos,Migos,Having Our Way (feat. Drake),Culture III,known,2021.0,2021-06-11,2021-05-17,25.0,1.0
+2021-06-11,Polo G,Polo G,No Return (with The Kid LAROI & Lil Durk),Hall of Fame,known,2021.0,2021-06-11,2021-05-27,15.0,1.0
+2021-06-11,TWICE,TWICE,Alcohol-Free,Taste of Love,known,2021.0,2021-06-11,2021-05-05,37.0,1.0
+2021-06-18,Gucci Mane,Gucci Mane,Posse on Bouldercrest (feat. Pooh Shiesty & Sir Mix-A-Lot),Ice Daddy,known,2021.0,2021-04-30,2021-04-30,49.0,1.0
+2021-06-25,Doja Cat,Doja Cat,You Right,Planet Her,known,2021.0,2021-06-25,2021-03-31,86.0,1.0
+2021-06-25,Rauw Alejandro,Rauw Alejandro,2/Catorce,Vice Versa,surprise,2021.0,2021-06-25,2021-07-19,-24.0,0.0
+2021-06-25,Ski Mask The Slump God,Ski Mask The Slump God,ADMIT IT,Sin City,known,2021.0,2021-06-25,2021-06-21,4.0,1.0
+2021-06-25,"Tyler, The Creator","Tyler, The Creator",WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign),Call Me If You Get Lost,known,2021.0,2021-06-25,2021-06-17,8.0,1.0
+2021-07-02,G Herbo,G Herbo,Cry No More,25,known,2021.0,2021-07-02,2021-06-28,4.0,1.0
+2021-07-09,Vince Staples,Vince Staples,ARE YOU WITH THAT?,Vince Staples,known,2021.0,2021-07-09,2021-04-15,85.0,1.0
+2021-07-16,Clairo,Clairo,Amoeba,Sling,known,2021.0,2021-07-16,2021-06-11,35.0,1.0
+2021-07-16,ILLENIUM,ILLENIUM,Blame Myself,Fallen Embers,known,2021.0,2021-07-16,2021-04-09,98.0,1.0
+2021-07-16,John Mayer,John Mayer,Shot in the Dark,Sob Rock,known,2021.0,2021-07-16,2021-06-01,45.0,1.0
+2021-07-16,Pop Smoke,Pop Smoke,Bout A Million,Faith,known,2021.0,2021-07-16,2021-07-13,3.0,1.0
+2021-07-23,Leon Bridges,Leon Bridges,Steam,Gold-Diggers Sound,known,2021.0,2021-07-23,2021-05-14,70.0,1.0
+2021-07-30,Billie Eilish,Billie Eilish,Happier Than Ever,Happier Than Ever,known,2021.0,2021-07-30,2021-04-27,94.0,1.0
+2021-07-30,Bleachers,Bleachers,Secret Life (feat. Lana Del Rey),Take the Sadness Out of Saturday Night,known,2021.0,2021-07-30,2021-05-18,73.0,1.0
+2021-07-30,Isaiah Rashad,Isaiah Rashad,From the Garden (feat. Lil Uzi Vert),The House Is Burning,known,2021.0,2021-07-30,2021-05-07,84.0,1.0
+2021-07-30,Logic,Logic,Theme For The People,Bobby Tarantino III,surprise,2021.0,2021-07-30,2021-07-27,3.0,1.0
+2021-08-06,Nas,Nas,Rare,King's Disease II,known,2021.0,2021-08-06,2021-07-30,7.0,1.0
+2021-08-13,$uicideboy$,$uicideboy$,Life Is but a Stream~,Long Term Effects of Suffering,known,,,,,
+2021-08-13,Dan + Shay,Dan + Shay,Steal My Love,Good Things,known,2021.0,2021-08-13,2021-07-17,27.0,1.0
+2021-08-13,Still Woozy,Still Woozy,Woof,"If This Isn't Nice, I Don't Know What Is",no_page,2021.0,2021-08-13,2021-08-13,0.0,0.0
+2021-08-13,YNW Melly,YNW Melly,Mind of Melvin (feat. Lil Uzi Vert),Just a Matter of Slime,known,2021.0,2021-08-13,2021-08-26,-13.0,0.0
+2021-08-18,Lorde,Lorde,Mood Ring,Solar Power,known,2021.0,2021-08-20,2021-06-11,68.0,1.0
+2021-08-20,Lorde,Lorde,The Path,Solar Power,known,2021.0,2021-08-20,2021-06-11,70.0,1.0
+2021-08-20,Trippie Redd,Trippie Redd,Matt Hardy 999,Trip at Knight,known,2021.0,2021-08-20,2021-04-12,130.0,1.0
+2021-08-20,dvsn,dvsn,Memories,Cheers to the Best Memories,known,,,,,
+2021-08-21,Trippie Redd,Trippie Redd,Betrayal (feat. Drake),Trip at Knight,known,2021.0,2021-08-20,2021-04-12,131.0,1.0
+2021-08-27,Belly,Belly,"Belly, The Weeknd - Die For It (ft. Nas)",See You Next Wednesday,known,2021.0,2021-08-27,2021-08-27,0.0,0.0
+2021-08-27,Halsey,Halsey,"I am not a woman, I'm a god","If I Can't Have Love, I Want Power",known,2021.0,2021-08-27,2021-07-07,51.0,1.0
+2021-08-27,OneRepublic,OneRepublic,Someday,Human,known,2021.0,2021-08-27,2020-10-13,318.0,1.0
+2021-08-29,Kanye West,Kanye West,Jail,Donda,known,2021.0,2021-08-29,2021-07-20,40.0,1.0
+2021-08-31,Kanye West,Kanye West,Jail pt 2,Donda,known,2021.0,2021-08-29,2021-07-20,42.0,1.0
+2021-09-03,Drake,Drake,Girls Want Girls (with Lil Baby),Certified Lover Boy,known,2021.0,2021-09-03,2020-10-25,313.0,1.0
+2021-09-03,Imagine Dragons,Imagine Dragons,Monday,Mercury – Act 1,known,2021.0,2021-09-03,2021-06-30,65.0,1.0
+2021-09-03,LANY,LANY,ex i never had,Gg bb xx,known,2021.0,2021-09-03,2021-09-03,0.0,0.0
+2021-09-03,Lady Gaga,Lady Gaga,911 - Charli XCX & A. G. Cook Remix,Dawn of Chromatica,known,2021.0,2021-09-03,2021-09-03,0.0,0.0
+2021-09-10,Baby Keem,Baby Keem,range brothers (with Kendrick Lamar),The Melodic Blue,known,2021.0,2021-09-10,2021-09-07,3.0,1.0
+2021-09-10,Kacey Musgraves,Kacey Musgraves,simple times,Star-Crossed,known,2021.0,2021-09-10,2021-08-23,18.0,1.0
+2021-09-17,Lil Nas X,Lil Nas X,THATS WHAT I WANT,Montero,known,2021.0,2021-09-17,2021-03-27,174.0,1.0
+2021-09-24,YoungBoy Never Broke Again,YoungBoy Never Broke Again,No Where,"Sincerely, Kentrell",known,2021.0,2021-09-24,2021-03-18,190.0,1.0
+2021-10-01,Lil Wayne,Lil Wayne,Feelin' Like Tunechi,Trust Fund Babies,known,,,,,
+2021-10-01,Meek Mill,Meek Mill,Intro (Hate on Me),Expensive Pain,known,2021.0,2021-10-01,2021-09-16,15.0,1.0
+2021-10-08,Don Toliver,Don Toliver,Flocky Flocky (feat. Travis Scott),Life of a Don,known,2021.0,2021-10-08,2021-10-07,1.0,0.0
+2021-10-08,James Blake,James Blake,Coming Back (feat. SZA),Friends That Break Your Heart,known,2021.0,2021-10-08,2021-07-23,77.0,1.0
+2021-10-15,Coldplay,Coldplay,Let Somebody Go,Music of the Spheres,known,2021.0,2021-10-15,2021-07-20,87.0,1.0
+2021-10-15,Lovejoy,Lovejoy,Perfume,Pebble Brain,known,,,,,
+2021-10-15,Young Thug,Young Thug,Bubbly (with Drake & Travis Scott),Punk,known,2021.0,2021-10-15,2021-07-27,80.0,1.0
+2021-10-22,Elton John,Elton John,Always Love You,The Lockdown Sessions,known,2021.0,2021-10-22,2021-09-01,51.0,1.0
+2021-10-22,Lana Del Rey,Lana Del Rey,If You Lie Down With Me,Blue Banisters,known,2021.0,2021-10-22,2021-04-28,177.0,1.0
+2021-10-22,Majid Jordan,Majid Jordan,Stars Align (with Drake),Wildest Dreams,no_page,2021.0,2021-10-22,2021-10-05,17.0,1.0
+2021-10-23,Lana Del Rey,Lana Del Rey,Dealer,Blue Banisters,known,2021.0,2021-10-22,2021-04-28,178.0,1.0
+2021-10-29,Big Sean,Big Sean,"Loyal To A Fault (feat. Bryson Tiller, Lil Durk)",What You Expect,surprise,,,,,
+2021-10-29,Ed Sheeran,Ed Sheeran,Overpass Graffiti,=,known,2021.0,2021-10-29,2021-08-19,71.0,1.0
+2021-10-29,Megan Thee Stallion,Megan Thee Stallion,Eat It,Something for Thee Hotties,known,2021.0,2021-10-29,2021-10-29,0.0,0.0
+2021-11-05,Key Glock,Key Glock,Ambition For Cash,Yellow Tape 2,surprise,2021.0,2021-11-05,2021-11-15,-10.0,0.0
+2021-11-05,Summer Walker,Summer Walker,No Love (with SZA),Still Over It,known,2021.0,2021-11-05,2021-10-05,31.0,1.0
+2021-11-12,Taylor Swift,Taylor Swift,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Red (Taylor's Version),known,2021.0,2021-11-12,2021-06-18,147.0,1.0
+2021-11-19,Adele,Adele,Oh My God,30,known,2021.0,2021-11-19,2021-10-13,37.0,1.0
+2021-11-19,KAYTRANADA,KAYTRANADA,Intimidated (feat. H.E.R.),Intimidated,no_page,2021.0,2021-11-19,2021-11-15,4.0,1.0
+2021-12-03,Khalid,Khalid,Scenic Drive (feat. Ari Lennox & Smino),Scenic Drive,known,2021.0,2021-12-03,2021-10-25,39.0,1.0
+2021-12-03,Polo G,Polo G,Don’t Play (with Lil Baby),Hall of Fame 2.0,known,2021.0,2021-12-03,2021-11-11,22.0,1.0
+2021-12-10,Juice WRLD,Juice WRLD,Burn,Fighting Demons,known,2021.0,2021-12-10,2021-11-11,29.0,1.0
+2021-12-17,Roddy Ricch,Roddy Ricch,thailand,Live Life Fast,known,2021.0,2021-12-17,2021-12-22,-5.0,0.0
+2022-01-07,Gunna,Gunna,pushin P (feat. Young Thug),DS4Ever,surprise,2022.0,2022-01-07,2022-01-07,0.0,0.0
+2022-01-07,The Weeknd,The Weeknd,Sacrifice,Dawn FM,known,2022.0,2022-01-07,2022-01-03,4.0,1.0
+2022-01-14,Cordae,Cordae,Today (feat. Gunna),From a Birds Eye View,known,2022.0,2022-01-14,2021-12-23,22.0,1.0
+2022-01-14,Earl Sweatshirt,Earl Sweatshirt,Old Friend,Sick!,known,2022.0,2022-01-14,2021-12-10,35.0,1.0
+2022-01-14,The Lumineers,The Lumineers,WHERE WE ARE,Brightside,known,2022.0,2022-01-14,2021-09-20,116.0,1.0
+2022-01-19,iann dior,iann dior,thought it was,On to Better Things,surprise,2022.0,2022-01-21,2022-01-28,-9.0,0.0
+2022-01-21,YoungBoy Never Broke Again,YoungBoy Never Broke Again,Know Like I Know,Colors,known,2022.0,2022-01-21,2022-01-18,3.0,1.0
+2022-01-21,iann dior,iann dior,is it you,On to Better Things,surprise,2022.0,2022-01-21,2022-01-28,-7.0,0.0
+2022-01-28,NLE Choppa,NLE Choppa,Push It (feat. Young Thug),Me vs. Me,surprise,2022.0,2022-01-28,2022-01-07,21.0,1.0
+2022-02-04,Mitski,Mitski,Stay Soft,Laurel Hell,known,2022.0,2022-02-04,2021-11-09,87.0,1.0
+2022-02-06,Dr. Dre,Dr. Dre,Gospel (with Eminem),Grand Theft Auto: The Contract,no_page,2022.0,2022-02-04,2022-02-04,2.0,1.0
+2022-02-18,Yeat,Yeat,Poppin,2 Alive,known,2022.0,2022-02-18,2022-02-23,-5.0,0.0
+2022-02-25,Avril Lavigne,Avril Lavigne,Bois Lie (feat. Machine Gun Kelly),Love Sux,known,2022.0,2022-02-25,2022-01-13,43.0,1.0
+2022-02-25,Kodak Black,Kodak Black,Usain Boo,Back for Everything,known,2022.0,2022-02-25,2022-02-18,7.0,1.0
+2022-02-26,Kodak Black,Kodak Black,I Wish,Back for Everything,known,2022.0,2022-02-25,2022-02-18,8.0,1.0
+2022-03-04,DaBaby,DaBaby,Turbo,Better than You,known,,,,,
+2022-03-04,King Von,King Von,Straight To It (feat. Fivio Foreign),What It Means to Be King,known,2022.0,2022-03-04,2022-02-25,7.0,1.0
+2022-03-09,Rex Orange County,Rex Orange County,"OPEN A WINDOW (feat. Tyler, The Creator)",Who Cares?,known,2022.0,2022-03-11,2022-01-26,42.0,1.0
+2022-03-11,Lil Durk,Lil Durk,Petty Too (feat. Future),7220,known,2022.0,2022-03-11,2022-02-22,17.0,1.0
+2022-03-11,Rex Orange County,Rex Orange County,AMAZING,Who Cares?,known,2022.0,2022-03-11,2022-01-26,44.0,1.0
+2022-03-18,Charli xcx,Charli xcx,Used to Know Me,Crash,known,2022.0,2022-03-18,2021-11-04,134.0,1.0
+2022-03-18,ROSALÍA,ROSALÍA,CANDY,Motomami,known,2022.0,2022-03-18,2021-11-02,136.0,1.0
+2022-03-18,Stray Kids,Stray Kids,MANIAC,Oddinary,known,2022.0,2022-03-18,2022-03-01,17.0,1.0
+2022-03-25,Daddy Yankee,Daddy Yankee,X ÚLTIMA VEZ,Legendaddy,known,2022.0,2022-03-24,2022-03-25,0.0,0.0
+2022-03-25,Denzel Curry,Denzel Curry,Walkin,Melt My Eyez See Your Future,known,2022.0,2022-03-25,2022-03-17,8.0,1.0
+2022-04-01,Dreamville,Dreamville,Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes),D-Day: A Gangsta Grillz Mixtape,surprise,,,,,
+2022-04-01,Thomas Rhett,Thomas Rhett,Where We Started,Where We Started,known,2022.0,2022-04-01,2022-04-20,-19.0,0.0
+2022-04-08,Camila Cabello,Camila Cabello,psychofreak (feat. WILLOW),Familia,known,2022.0,2022-04-08,2021-12-19,110.0,1.0
+2022-04-08,Fivio Foreign,Fivio Foreign,Changed On Me (feat. Vory & Polo G),B.I.B.L.E.,known,2022.0,2022-04-08,2022-02-11,56.0,1.0
+2022-04-15,Swedish House Mafia,Swedish House Mafia,Heaven Takes You Home (feat. Connie Constance),Paradise Again,known,2022.0,2022-04-15,2021-11-05,161.0,1.0
+2022-04-22,Pusha T,Pusha T,Scrape It Off (feat. Lil Uzi Vert & Don Toliver),It's Almost Dry,known,2022.0,2022-04-22,2022-04-18,4.0,1.0
+2022-04-29,Future,Future,WAIT FOR U (feat. Drake & Tems),I Never Liked You,known,2022.0,2022-04-29,2022-04-25,4.0,1.0
+2022-04-29,Kehlani,Kehlani,everything,Blue Water Road,known,2022.0,2022-04-29,2022-03-24,36.0,1.0
+2022-04-29,PSY,PSY,That That (prod.&feat. SUGA of BTS),Psy 9th,known,2022.0,2022-04-29,2022-04-30,-1.0,0.0
+2022-05-06,Bad Bunny,Bad Bunny,Moscow Mule,Un Verano Sin Ti,known,2022.0,2022-05-06,2022-05-02,4.0,1.0
+2022-05-06,Jack Harlow,Jack Harlow,Dua Lipa,Come Home the Kids Miss You,known,2022.0,2022-05-06,2022-03-17,50.0,1.0
+2022-05-13,Kendrick Lamar,Kendrick Lamar,N95,Mr. Morale & the Big Steppers,known,2022.0,2022-05-13,2022-04-18,25.0,1.0
+2022-05-13,The Chainsmokers,The Chainsmokers,I Love U,So Far So Good,known,2022.0,2022-05-13,2022-04-07,36.0,1.0
+2022-05-20,Flume,Flume,Highest Building,Palaces,known,2022.0,2022-05-20,2022-02-02,107.0,1.0
+2022-05-20,Harry Styles,Harry Styles,Late Night Talking,Harry's House,known,2022.0,2022-05-20,2022-03-23,58.0,1.0
+2022-05-20,Zach Bryan,Zach Bryan,Heavy Eyes,American Heartbreak,known,2022.0,2022-05-20,2022-02-28,81.0,1.0
+2022-05-27,Tate McRae,Tate McRae,don't come back,I Used to Think I Could Fly,known,2022.0,2022-05-27,2022-04-04,53.0,1.0
+2022-06-03,Post Malone,Post Malone,I Like You (A Happier Song) (with Doja Cat),Twelve Carat Toothache,known,2022.0,2022-06-03,2022-01-27,127.0,1.0
+2022-06-17,Drake,Drake,Falling Back,"Honestly, Nevermind",surprise,2022.0,2022-06-17,2022-06-16,1.0,0.0
+2022-06-17,Logic,Logic,In my lifetime (feat. Action Bronson),Vinyl Days,known,2022.0,2022-06-17,2022-04-22,56.0,1.0
+2022-06-24,Chris Brown,Chris Brown,Psychic,Breezy,known,2022.0,2022-06-24,2022-05-18,37.0,1.0
+2022-06-24,Conan Gray,Conan Gray,Disaster,Superache,known,2022.0,2022-06-24,2022-04-11,74.0,1.0
+2022-06-24,GIVĒON,GIVĒON,Let Me Go,Give or Take,known,2022.0,2022-06-24,2022-06-24,0.0,0.0
+2022-06-24,Luke Combs,Luke Combs,Outrunnin' Your Memory,Growin' Up,known,2022.0,2022-06-24,2022-06-25,-1.0,0.0
+2022-07-08,Brent Faiyaz,Brent Faiyaz,LOOSE CHANGE,Wasteland,known,2022.0,2022-07-08,2022-07-02,6.0,1.0
+2022-07-13,Steve Lacy,Steve Lacy,Sunshine (feat. Fousheé),Gemini Rights,known,2022.0,2022-07-15,2022-06-17,26.0,1.0
+2022-07-15,Lizzo,Lizzo,2 Be Loved (Am I Ready),Special,known,2022.0,2022-07-15,2022-04-14,92.0,1.0
+2022-07-15,Steve Lacy,Steve Lacy,Static,Gemini Rights,known,2022.0,2022-07-15,2022-06-17,28.0,1.0
+2022-07-15,j-hope,j-hope,Arson,Jack in the Box,known,2022.0,2022-07-15,2022-06-28,17.0,1.0
+2022-07-17,Sabrina Carpenter,Sabrina Carpenter,because i liked a boy,Emails I Can't Send,known,2022.0,2022-07-15,2022-06-30,17.0,1.0
+2022-07-21,Billie Eilish,Billie Eilish,TV,Guitar Songs,surprise,2022.0,2022-07-21,2022-07-21,0.0,0.0
+2022-07-22,Joey Bada$$,Joey Bada$$,Cruise Control,2000,known,2022.0,2022-07-22,2022-08-12,-21.0,0.0
+2022-07-22,ODESZA,ODESZA,Forgive Me,The Last Goodbye,known,2022.0,2022-07-22,2022-07-27,-5.0,0.0
+2022-07-29,Beyoncé,Beyoncé,I'M THAT GIRL,Renaissance,known,2022.0,2022-07-29,2022-06-16,43.0,1.0
+2022-07-29,Maggie Rogers,Maggie Rogers,Anywhere With You,Surrender,known,2022.0,2022-07-29,2022-03-30,121.0,1.0
+2022-08-05,Calvin Harris,Calvin Harris,Obsessed (with Charlie Puth & Shenseea),Funk Wav Bounces Vol. 2,known,2022.0,2022-08-05,2022-06-29,37.0,1.0
+2022-08-05,YoungBoy Never Broke Again,YoungBoy Never Broke Again,Umm Hmm,The Last Slimeto,known,2022.0,2022-08-05,2022-05-18,79.0,1.0
+2022-08-12,Megan Thee Stallion,Megan Thee Stallion,Her,Traumazine,known,2022.0,2022-08-12,2022-08-11,1.0,0.0
+2022-08-12,Rod Wave,Rod Wave,Yungen (feat. Jack Harlow),Beautiful Mind,known,2022.0,2022-08-12,2022-08-12,0.0,0.0
+2022-08-18,Demi Lovato,Demi Lovato,29,Holy Fvck,known,2022.0,2022-08-19,2022-06-06,73.0,1.0
+2022-08-26,DJ Khaled,DJ Khaled,"GOD DID (feat. Rick Ross, Lil Wayne, JAY-Z, John Legend & Fridayy)",God Did,known,2022.0,2022-08-26,2022-08-23,3.0,1.0
+2022-08-26,JID,JID,Raydar,The Forever Story,known,2022.0,2022-08-26,2022-08-10,16.0,1.0
+2022-08-26,TWICE,TWICE,Talk that Talk,Between 1&2,no_page,2022.0,2022-08-26,2022-08-10,16.0,1.0
+2022-09-02,Romeo Santos,Romeo Santos,Sin Fin,"Formula, Vol. 3",known,2022.0,2022-09-02,2022-09-02,0.0,0.0
+2022-09-09,Kane Brown,Kane Brown,Thank God,Different Man,known,2022.0,2022-09-09,2022-07-19,52.0,1.0
+2022-09-09,NAV,NAV,One Time (with Don Toliver feat. Future),Demons Protected by Angels,known,2022.0,2022-09-09,2022-06-28,73.0,1.0
+2022-09-09,Yeat,Yeat,Flawlëss (feat. Lil Uzi Vert),Lyfe,surprise,,,,,
+2022-09-16,BLACKPINK,BLACKPINK,Shut Down,Born Pink,known,2022.0,2022-09-16,2022-07-31,47.0,1.0
+2022-09-16,EST Gee,EST Gee,Backstage Passes (feat. Jack Harlow),I Never Felt Nun,surprise,2022.0,2022-09-16,2022-09-09,7.0,1.0
+2022-09-16,Mitchell Tenpenny,Mitchell Tenpenny,We Got History,This Is the Heavy,known,2022.0,2022-09-16,2022-09-17,-1.0,0.0
+2022-09-30,Freddie Gibbs,Freddie Gibbs,Pain & Strife (feat. Offset),Soul Sold Separately,known,2022.0,2022-09-30,2022-09-10,20.0,1.0
+2022-09-30,Kid Cudi,Kid Cudi,New Mode,Entergalactic,known,2022.0,2022-09-30,2021-09-28,367.0,1.0
+2022-10-07,Charlie Puth,Charlie Puth,Loser,Charlie,known,2022.0,2022-10-07,2022-07-07,92.0,1.0
+2022-10-07,Quavo,Quavo,To The Bone (feat. YoungBoy Never Broke Again),Only Built for Infinity Links,known,,,,,
+2022-10-07,Stray Kids,Stray Kids,CASE 143,Maxident,known,2022.0,2022-10-07,2022-09-06,31.0,1.0
+2022-10-14,Lil Baby,Lil Baby,California Breeze,It's Only Me,known,2022.0,2022-10-14,2022-09-02,42.0,1.0
+2022-10-14,The 1975,The 1975,Oh Caroline,Being Funny in a Foreign Language,known,2022.0,2022-10-14,2022-07-07,99.0,1.0
+2022-10-18,LE SSERAFIM,LE SSERAFIM,ANTIFRAGILE,Antifragile,known,2022.0,2022-10-17,2022-09-19,29.0,1.0
+2022-10-21,Arctic Monkeys,Arctic Monkeys,I Ain’t Quite Where I Think I Am,The Car,known,2022.0,2022-10-21,2022-08-24,58.0,1.0
+2022-10-21,Taylor Swift,Taylor Swift,Anti-Hero,Midnights,known,2022.0,2022-10-21,2022-08-29,53.0,1.0
+2022-10-23,Meghan Trainor,Meghan Trainor,Made You Look,Takin' It Back,known,2022.0,2022-10-21,2022-06-23,122.0,1.0
+2022-11-04,21 Savage,21 Savage,3AM on Glenwood,Her Loss,known,,,,,
+2022-11-04,Drake,Drake,Rich Flex,Her Loss,known,,,,,
+2022-11-04,Joji,Joji,Die For You,Smithereens,known,2022.0,2022-11-04,2022-08-26,70.0,1.0
+2022-11-11,Rauw Alejandro,Rauw Alejandro,LEJOS DEL CIELO,Saturno,known,2022.0,2022-11-11,2022-10-30,12.0,1.0
+2022-11-18,Roddy Ricch,Roddy Ricch,Twin (feat. Lil Durk),Feed Tha Streets III,known,2022.0,2022-11-18,2022-10-24,25.0,1.0
+2022-12-02,Metro Boomin,Metro Boomin,Superhero (Heroes & Villains) [with Future & Chris Brown],Heroes & Villains,known,2022.0,2022-12-02,2022-09-17,76.0,1.0
+2022-12-02,RM,RM,Wild Flower (with youjeen),Indigo,known,2022.0,2022-12-02,2022-11-11,21.0,1.0
+2022-12-09,A Boogie Wit da Hoodie,A Boogie Wit da Hoodie,Water (Drowning Pt. 2) [feat. Kodak Black],Me vs. Myself,known,2022.0,2022-12-09,2022-09-07,93.0,1.0
+2022-12-09,SZA,SZA,Kill Bill,SOS,known,2022.0,2022-12-09,2022-11-19,20.0,1.0
+2023-01-06,YoungBoy Never Broke Again,YoungBoy Never Broke Again,Black,I Rest My Case,known,2023.0,2023-01-06,2023-01-04,2.0,1.0
+2023-01-20,HARDY,HARDY,red (feat. Morgan Wallen),The Mockingbird & the Crow,known,2023.0,2023-01-20,2022-10-11,101.0,1.0
+2023-01-20,Ice Spice,Ice Spice,Gangsta Boo (with Lil Tjay),Like..?,surprise,2023.0,2023-01-20,2023-01-20,0.0,0.0
+2023-01-20,Trippie Redd,Trippie Redd,KNIGHT CRAWLER,Mansion Musik,known,2023.0,2023-01-20,2023-01-19,1.0,0.0
+2023-01-27,Lil Yachty,Lil Yachty,the BLACK seminole.,Let's Start Here,known,2023.0,2023-01-27,2023-01-18,9.0,1.0
+2023-01-27,Sam Smith,Sam Smith,I'm Not Here To Make Friends,Gloria,known,2023.0,2023-01-27,2022-10-17,102.0,1.0
+2023-01-27,TOMORROW X TOGETHER,TOMORROW X TOGETHER,Sugar Rush Ride,The Name Chapter: Temptation,known,2023.0,2023-01-27,2023-01-27,0.0,0.0
+2023-01-28,Lil Yachty,Lil Yachty,drive ME crazy!,Let's Start Here,known,2023.0,2023-01-27,2023-01-18,10.0,1.0
+2023-02-10,Paramore,Paramore,Running Out Of Time,This Is Why,known,2023.0,2023-02-10,2022-09-28,135.0,1.0
+2023-02-10,Pierce The Veil,Pierce The Veil,Death Of An Executioner,The Jaws of Life,known,2023.0,2023-02-10,2022-11-11,91.0,1.0
+2023-02-17,Skrillex,Skrillex,RATATA,Quest for Fire,known,2023.0,2023-02-17,2023-02-11,6.0,1.0
+2023-02-24,Don Toliver,Don Toliver,Private Landing (feat. Justin Bieber & Future),Love Sick,known,2023.0,2023-02-24,2023-02-18,6.0,1.0
+2023-02-24,Gorillaz,Gorillaz,Tormenta (feat. Bad Bunny),Cracker Island,known,2023.0,2023-02-24,2022-08-31,177.0,1.0
+2023-02-24,KAROL G,KAROL G,TQG,Mañana Será Bonito,known,2023.0,2023-02-24,2023-02-11,13.0,1.0
+2023-02-24,Yeat,Yeat,No morë talk,Afterlyfe,known,2023.0,2023-02-24,2023-03-01,-5.0,0.0
+2023-02-25,KAROL G,KAROL G,KÁRMIKA,Mañana Será Bonito,known,2023.0,2023-02-24,2023-02-11,14.0,1.0
+2023-02-28,Young Nudy,Young Nudy,Peaches & Eggplants (feat. 21 Savage),Gumbo,surprise,2023.0,2023-02-28,2023-02-26,2.0,1.0
+2023-03-03,Kali Uchis,Kali Uchis,Fantasy (feat. Don Toliver),Red Moon in Venus,known,2023.0,2023-03-03,2023-01-20,42.0,1.0
+2023-03-03,Morgan Wallen,Morgan Wallen,Born With A Beer In My Hand,One Thing at a Time,known,2023.0,2023-03-03,2023-01-30,32.0,1.0
+2023-03-10,Miley Cyrus,Miley Cyrus,River,Endless Summer Vacation,known,2023.0,2023-03-10,2023-01-05,64.0,1.0
+2023-03-17,100 gecs,100 gecs,Dumbest Girl Alive,"10,000 Gecs",known,2023.0,2023-03-17,2022-12-02,105.0,1.0
+2023-03-17,Hozier,Hozier,Eat Your Young,Eat Your Young,surprise,2023.0,2023-03-17,2023-03-16,1.0,0.0
+2023-03-24,Fall Out Boy,Fall Out Boy,Hold Me Like a Grudge,So Much (for) Stardust,known,2023.0,2023-03-24,2023-01-18,65.0,1.0
+2023-03-24,Jimin,Jimin,Like Crazy (English Version),Face,known,2023.0,2023-03-24,2023-02-25,27.0,1.0
+2023-03-24,Lana Del Rey,Lana Del Rey,Candy Necklace (feat. Jon Batiste),Did You Know That There's a Tunnel Under Ocean Blvd,known,2023.0,2023-03-24,2022-12-07,107.0,1.0
+2023-03-24,Luke Combs,Luke Combs,Fast Car,Gettin' Old,known,2023.0,2023-03-24,2023-01-31,52.0,1.0
+2023-03-24,ROSALÍA,ROSALÍA,BESO,RR,known,,,,,
+2023-03-29,Melanie Martinez,Melanie Martinez,VOID,Portals,known,2023.0,2023-03-31,2023-02-22,35.0,1.0
+2023-03-31,Melanie Martinez,Melanie Martinez,TUNNEL VISION,Portals,known,2023.0,2023-03-31,2023-02-22,37.0,1.0
+2023-03-31,boygenius,boygenius,Cool About It,The Record,known,2023.0,2023-03-31,2023-01-18,72.0,1.0
+2023-04-07,Daniel Caesar,Daniel Caesar,Valentina,Never Enough,known,2023.0,2023-04-07,2023-02-16,50.0,1.0
+2023-04-07,NF,NF,HAPPY,Hope,no_page,2023.0,2023-04-07,2023-02-17,49.0,1.0
+2023-04-21,Agust D,Agust D,Haegeum,D-Day,known,2023.0,2023-04-21,2023-04-03,18.0,1.0
+2023-04-28,ILLENIUM,ILLENIUM,Eyes Wide Shut,Illenium,no_page,2023.0,2023-04-28,2023-01-18,100.0,1.0
+2023-04-28,Jack Harlow,Jack Harlow,They Don't Love It,Jackman,known,2023.0,2023-04-28,2023-04-26,2.0,1.0
+2023-04-28,The National,The National,The Alcott (feat. Taylor Swift),First Two Pages of Frankenstein,known,2023.0,2023-04-28,2023-01-18,100.0,1.0
+2023-05-01,LE SSERAFIM,LE SSERAFIM,UNFORGIVEN (feat. Nile Rodgers),Unforgiven,known,2023.0,2023-05-01,2023-04-17,14.0,1.0
+2023-05-05,Destroy Lonely,Destroy Lonely,how u feel?,If Looks Could Kill,known,2023.0,2023-05-05,2023-04-27,8.0,1.0
+2023-05-05,Ed Sheeran,Ed Sheeran,Curtains,−,no_page,2023.0,2023-05-05,2023-03-02,64.0,1.0
+2023-05-12,Jonas Brothers,Jonas Brothers,Summer Baby,The Album,known,2023.0,2023-05-12,2023-01-30,102.0,1.0
+2023-05-12,Parker McCollum,Parker McCollum,Handle On You,Never Enough,no_page,2023.0,2023-05-12,2023-02-17,84.0,1.0
+2023-05-19,KAYTRAMINÉ,KAYTRAMINÉ,Who He Iz,Kaytraminé,surprise,,,,,
+2023-05-19,Summer Walker,Summer Walker,New Type (feat. Childish Gambino),Clear 2: Soft Life,no_page,2023.0,2023-05-19,2023-04-04,45.0,1.0
+2023-05-23,ENHYPEN,ENHYPEN,Bite Me,Dark Blood,surprise,2023.0,2023-05-22,2023-05-25,-2.0,0.0
+2023-05-26,Lil Durk,Lil Durk,War Bout It (feat. 21 Savage),Almost Healed,known,2023.0,2023-05-26,2023-05-06,20.0,1.0
+2023-06-01,Moneybagg Yo,Moneybagg Yo,Ocean Spray,Hard to Love,surprise,2023.0,2023-06-02,2023-05-12,20.0,1.0
+2023-06-02,Metro Boomin,Metro Boomin,"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",Spider-Man: Across the Spider-Verse,surprise,,,,,
+2023-06-02,Moneybagg Yo,Moneybagg Yo,Keep It Low (feat. Future),Hard to Love,surprise,2023.0,2023-06-02,2023-05-12,21.0,1.0
+2023-06-02,Stray Kids,Stray Kids,S-Class,5-Star,known,2023.0,2023-06-02,2023-04-29,34.0,1.0
+2023-06-05,Dave,Dave,Sprinter,Split Decision,no_page,,,,,
+2023-06-09,Niall Horan,Niall Horan,The Show,The Show,known,2023.0,2023-06-09,2023-02-15,114.0,1.0
+2023-06-16,Gunna,Gunna,back to the moon,A Gift & a Curse,surprise,2023.0,2023-06-16,2023-06-16,0.0,0.0
+2023-06-23,Young Thug,Young Thug,Oh U Went (feat. Drake),Business Is Business,surprise,2023.0,2023-06-23,2023-06-22,1.0,0.0
+2023-06-30,Lil Uzi Vert,Lil Uzi Vert,Flooded The Face,Pink Tape,known,2023.0,2023-06-30,2023-06-27,3.0,1.0
+2023-06-30,Natanael Cano,Natanael Cano,Mas Altas Que Bajadas,Nata Montana,no_page,,,,,
+2023-07-07,Dominic Fike,Dominic Fike,Think Fast (feat. Weezer),Sunburn,known,2023.0,2023-07-07,2023-05-24,44.0,1.0
+2023-07-07,Rauw Alejandro,Rauw Alejandro,BABY HELLO,Playa Saturno,known,2023.0,2023-07-07,2023-07-03,4.0,1.0
+2023-07-07,Taylor Swift,Taylor Swift,Mine (Taylor's Version),Speak Now (Taylor's Version),known,2023.0,2023-07-07,2023-05-06,62.0,1.0
+2023-07-21,NewJeans,NewJeans,Cool With You,Get Up,known,2023.0,2023-07-21,2023-06-19,32.0,1.0
+2023-07-28,Post Malone,Post Malone,Enough Is Enough,Austin,known,2023.0,2023-07-28,2023-05-16,73.0,1.0
+2023-07-28,Travis Scott,Travis Scott,MELTDOWN (feat. Drake),Utopia,known,2023.0,2023-07-28,2023-01-02,207.0,1.0
+2023-08-04,Grupo Frontera,Grupo Frontera,EL AMOR DE SU VIDA,El Comienzo,known,2023.0,2023-08-03,2023-08-03,1.0,0.0
+2023-08-11,KAROL G,KAROL G,MI EX TENÍA RAZÓN,Mañana Será Bonito (Bichota Season),known,2023.0,2023-08-11,2023-08-01,10.0,1.0
+2023-08-11,Trippie Redd,Trippie Redd,Closed Doors,A Love Letter to You 5,known,2023.0,2023-08-11,2023-07-30,12.0,1.0
+2023-08-13,Trippie Redd,Trippie Redd,Last Days,A Love Letter to You 5,known,2023.0,2023-08-11,2023-07-30,14.0,1.0
+2023-08-18,Hozier,Hozier,Damage Gets Done,Unreal Unearth,known,2023.0,2023-08-18,2023-05-17,93.0,1.0
+2023-08-25,Zach Bryan,Zach Bryan,I Remember Everything (feat. Kacey Musgraves),Zach Bryan,known,2023.0,2023-08-25,2023-08-29,-4.0,0.0
+2023-09-08,Olivia Rodrigo,Olivia Rodrigo,all-american bitch,Guts,known,2023.0,2023-09-08,2023-06-26,74.0,1.0
+2023-09-08,Tyler Childers,Tyler Childers,Rustin' In The Rain,Rustin' in the Rain,known,2023.0,2023-09-08,2023-07-27,43.0,1.0
+2023-09-08,V,V,Slow Dancing,Layover,known,2023.0,2023-09-08,2023-08-11,28.0,1.0
+2023-09-13,Rod Wave,Rod Wave,Boyz Don't Cry,Nostalgia,known,2023.0,2023-09-15,2023-08-17,27.0,1.0
+2023-09-15,Mitski,Mitski,My Love Mine All Mine,The Land Is Inhospitable and So Are We,known,2023.0,2023-09-15,2023-07-26,51.0,1.0
+2023-09-15,Rod Wave,Rod Wave,Turks & Caicos (feat. 21 Savage),Nostalgia,known,2023.0,2023-09-15,2023-08-17,29.0,1.0
+2023-09-17,Diddy,Diddy,Another One Of Me (feat. 21 Savage),The Love Album: Off the Grid,known,2023.0,2023-09-15,2023-08-22,26.0,1.0
+2023-09-22,Doja Cat,Doja Cat,Agora Hills,Scarlet,known,2023.0,2023-09-22,2023-08-29,24.0,1.0
+2023-09-22,Lil Tecca,Lil Tecca,Dead or Alive,Tec,known,2023.0,2023-09-22,2023-09-20,2.0,1.0
+2023-09-22,Zach Bryan,Zach Bryan,Sarah's Place (feat. Noah Kahan),Boys of Faith,surprise,2023.0,2023-09-22,2023-09-22,0.0,0.0
+2023-09-29,Ed Sheeran,Ed Sheeran,American Town,Autumn Variations,known,2023.0,2023-09-29,2023-08-24,36.0,1.0
+2023-10-06,Drake,Drake,First Person Shooter (feat. J. Cole),For All the Dogs,known,2023.0,2023-10-06,2023-08-23,44.0,1.0
+2023-10-13,Bad Bunny,Bad Bunny,MONACO,Nadie Sabe Lo Que Va a Pasar Mañana,known,2023.0,2023-10-13,2023-10-09,4.0,1.0
+2023-10-13,Ken Carson,Ken Carson,Jennifer’s Body,A Great Chaos,known,2023.0,2023-10-13,2023-07-09,96.0,1.0
+2023-10-13,Offset,Offset,SAY MY GRACE (feat. Travis Scott),Set It Off,known,2023.0,2023-10-13,2023-09-15,28.0,1.0
+2023-10-13,TOMORROW X TOGETHER,TOMORROW X TOGETHER,Chasing That Feeling,The Name Chapter: Freefall,known,2023.0,2023-10-13,2023-09-14,29.0,1.0
+2023-10-13,Troye Sivan,Troye Sivan,One Of Your Girls,Something to Give Each Other,known,2023.0,2023-10-13,2023-07-13,92.0,1.0
+2023-10-13,boygenius,boygenius,Black Hole,The Rest,known,2023.0,2023-10-13,2023-09-26,17.0,1.0
+2023-10-20,blink-182,blink-182,ANTHEM PART 3,One More Time...,known,2023.0,2023-10-20,2023-09-18,32.0,1.0
+2023-10-27,Brent Faiyaz,Brent Faiyaz,Last One Left (feat. Missy Elliott & Lil Gray),Larger than Life,no_page,2023.0,2023-10-27,2023-10-26,1.0,0.0
+2023-10-27,Taylor Swift,Taylor Swift,"""Slut!"" (Taylor's Version) (From The Vault)",1989 (Taylor's Version),known,2023.0,2023-10-27,2023-08-10,78.0,1.0
+2023-11-10,Chris Stapleton,Chris Stapleton,What Am I Gonna Do,Higher,known,2023.0,2023-11-10,2023-07-21,112.0,1.0
+2023-11-10,PinkPantheress,PinkPantheress,Nice to meet you (feat. Central Cee),Heaven Knows,known,2023.0,2023-11-10,2023-10-12,29.0,1.0
+2023-11-10,Stray Kids,Stray Kids,LALALALA,Rock-Star,known,2023.0,2023-11-10,2023-10-06,35.0,1.0
+2023-11-10,The Kid LAROI,The Kid LAROI,SORRY,The First Time,known,2023.0,2023-11-10,2023-01-20,294.0,1.0
+2023-11-17,André 3000,André 3000,"I swear, I Really Wanted To Make A ""Rap"" Album But This Is Literally The Way The Wind Blew Me This Time",New Blue Sun,known,2023.0,2023-11-17,2023-11-14,3.0,1.0
+2023-12-08,Nicki Minaj,Nicki Minaj,Needle (feat. Drake),Pink Friday 2,known,2023.0,2023-12-08,2023-06-29,162.0,1.0
+2023-12-08,Tate McRae,Tate McRae,run for the hills,Think Later,known,2023.0,2023-12-08,2023-11-06,32.0,1.0
+2024-01-12,21 Savage,21 Savage,née-nah,American Dream,known,2024.0,2024-01-12,2024-01-09,3.0,1.0
+2024-01-12,Kali Uchis,Kali Uchis,Igual Que Un Ángel (with Peso Pluma),Orquídeas,known,2024.0,2024-01-12,2023-10-11,93.0,1.0
+2024-01-12,Kid Cudi,Kid Cudi,GET OFF ME (with Travis Scott),Insano,known,2024.0,2024-01-12,2023-09-08,126.0,1.0
+2024-02-09,¥$,Kanye West,TALKING,Vultures 1,surprise,,,,,
+2024-02-10,¥$,Kanye West,STARS,Vultures 1,surprise,,,,,
+2024-02-11,¥$,Kanye West,PROBLEMATIC,Vultures 1,surprise,,,,,
+2024-02-16,Yeat,Yeat,Psycho CEO,2093,known,2024.0,2024-02-16,2024-02-16,0.0,0.0
+2024-02-19,LE SSERAFIM,LE SSERAFIM,EASY,Easy,no_page,2024.0,2024-02-19,2024-02-22,-3.0,0.0
+2024-03-01,ScHoolboy Q,ScHoolboy Q,THank god 4 me,Blue Lips,known,2024.0,2024-03-01,2024-02-01,29.0,1.0
+2024-03-08,Ariana Grande,Ariana Grande,bye,Eternal Sunshine,known,2024.0,2024-03-08,2024-01-17,51.0,1.0
+2024-03-15,Flo Milli,Flo Milli,Never Lose Me (feat. SZA & Cardi B),"Fine Ho, Stay",known,2024.0,2024-03-15,2024-03-15,0.0,0.0
+2024-03-15,Kacey Musgraves,Kacey Musgraves,Cardinal,Deeper Well,known,2024.0,2024-03-15,2024-02-08,36.0,1.0
+2024-03-22,Future,Future,Like That,We Don't Trust You,known,,,,,
+2024-03-22,Hozier,Hozier,Too Sweet,Unheard,surprise,2024.0,2024-03-22,2024-03-26,-4.0,0.0
+2024-03-22,Shakira,Shakira,Puntería,Las Mujeres Ya No Lloran,known,2024.0,2024-03-22,2024-02-15,36.0,1.0
+2024-03-26,ILLIT,ILLIT,Magnetic,Super Real Me,known,2024.0,2024-03-25,2024-03-26,0.0,0.0
+2024-03-29,Beyoncé,Beyoncé,JOLENE,Cowboy Carter,known,2024.0,2024-03-29,2024-03-12,17.0,1.0
+2024-04-05,Benson Boone,Benson Boone,Cry,Fireworks & Rollerblades,known,2024.0,2024-04-05,2024-03-25,11.0,1.0
+2024-04-05,J. Cole,J. Cole,7 Minute Drill,Might Delete Later,no_page,2024.0,2024-04-05,2024-04-05,0.0,0.0
+2024-04-12,Future,Future,We Still Don't Trust You,We Still Don't Trust You,known,,,,,
+2024-04-19,Taylor Swift,Taylor Swift,Fortnight (feat. Post Malone),The Tortured Poets Department,known,2024.0,2024-04-19,2024-02-05,74.0,1.0
+2024-04-26,Justice,Justice,Neverender,Hyperdrama,known,2024.0,2024-04-26,2024-01-19,98.0,1.0
+2024-04-26,PARTYNEXTDOOR,PARTYNEXTDOOR,L o s e M y M i n d,PartyNextDoor 4,known,2024.0,2024-04-26,2024-03-17,40.0,1.0
+2024-05-03,Dua Lipa,Dua Lipa,These Walls,Radical Optimism,known,2024.0,2024-05-03,2024-03-13,51.0,1.0
+2024-05-10,Gunna,Gunna,one of wun,One of Wun,known,2024.0,2024-05-10,2024-05-03,7.0,1.0
+2024-05-17,A Boogie Wit da Hoodie,A Boogie Wit da Hoodie,Somebody (feat. Future),Better Off Alone,known,2024.0,2024-05-17,2024-04-05,42.0,1.0
+2024-05-17,Billie Eilish,Billie Eilish,LUNCH,Hit Me Hard and Soft,known,2024.0,2024-05-17,2024-04-08,39.0,1.0
+2024-05-24,Twenty One Pilots,Twenty One Pilots,Routines In The Night,Clancy,known,2024.0,2024-05-24,2024-02-29,85.0,1.0
+2024-06-07,Charli xcx,Charli xcx,Talk talk,Brat,known,2024.0,2024-06-07,2024-02-28,100.0,1.0
+2024-06-07,Ski Mask The Slump God,Ski Mask The Slump God,Wake Up!,11th Dimension,known,2024.0,2024-06-07,2024-06-04,3.0,1.0
+2024-06-14,$uicideboy$,$uicideboy$,Lone Wolf Hysteria,New World Depression,known,,,,,
+2024-06-14,Don Toliver,Don Toliver,BROTHER STONE (FEAT. KODAK BLACK),Hardstone Psycho,known,2024.0,2024-06-14,2024-05-22,23.0,1.0
+2024-06-14,Luke Combs,Luke Combs,Remember Him That Way,Fathers & Sons,known,2024.0,2024-06-14,2024-06-06,8.0,1.0
+2024-06-14,Moneybagg Yo,Moneybagg Yo,WHISKEY WHISKEY (feat. Morgan Wallen),Speak Now,known,2024.0,2024-06-14,2024-05-27,18.0,1.0
+2024-06-21,Gracie Abrams,Gracie Abrams,us. (feat. Taylor Swift),The Secret of Us,known,2024.0,2024-06-21,2024-04-29,53.0,1.0
+2024-06-21,Peso Pluma,Peso Pluma,RELOJ,Éxodo,known,2024.0,2024-06-20,2024-05-24,28.0,1.0
+2024-06-28,Camila Cabello,Camila Cabello,HOT UPTOWN (feat. Drake),"C,XOXO",known,2024.0,2024-06-28,2024-05-06,53.0,1.0
+2024-06-28,Megan Thee Stallion,Megan Thee Stallion,Otaku Hot Girl,Megan,known,2024.0,2024-06-28,2024-06-03,25.0,1.0
+2024-06-30,Megan Thee Stallion,Megan Thee Stallion,Mamushi (feat. Yuki Chiba),Megan,known,2024.0,2024-06-28,2024-06-03,27.0,1.0
+2024-07-04,Zach Bryan,Zach Bryan,28,The Great American Bar Scene,known,2024.0,2024-07-04,2024-06-07,27.0,1.0
+2024-07-12,Eminem,Eminem,Renaissance,The Death of Slim Shady (Coup de Grâce),known,2024.0,2024-07-12,2024-05-22,51.0,1.0
+2024-07-19,Childish Gambino,Childish Gambino,In The Night (feat. Jorja Smith & Amaarae),Bando Stone & the New World,known,2024.0,2024-07-19,2024-07-02,17.0,1.0
+2024-07-19,Jimin,Jimin,Who,Muse,known,2024.0,2024-07-19,2024-06-17,32.0,1.0
+2024-07-19,Stray Kids,Stray Kids,Chk Chk Boom,Ate,known,2024.0,2024-07-19,2024-06-19,30.0,1.0
+2024-07-26,Ice Spice,Ice Spice,Oh Shhh...(with Travis Scott),Y2K!,known,2024.0,2024-07-26,2024-01-31,177.0,1.0
+2024-08-03,¥$,Kanye West,FIELD TRIP,Vultures 2,known,,,,,
+2024-08-16,Post Malone,Post Malone,Wrong Ones (Feat. Tim McGraw),F-1 Trillion,known,2024.0,2024-08-16,2024-06-19,58.0,1.0
+2024-08-23,Sabrina Carpenter,Sabrina Carpenter,Taste,Short n' Sweet,known,2024.0,2024-08-23,2024-06-03,81.0,1.0
+2024-08-30,Destroy Lonely,Destroy Lonely,LOVE HURTS (with Lil Uzi Vert),Love Lasts Forever,known,2024.0,2024-08-30,2024-08-19,11.0,1.0
+2024-08-30,LE SSERAFIM,LE SSERAFIM,CRAZY,Crazy,no_page,2024.0,2024-08-30,2024-09-01,-2.0,0.0
+2024-09-20,Future,Future,TEFLON DON,Mixtape Pluto,known,2024.0,2024-09-20,2024-09-11,9.0,1.0
+2024-09-20,Lil Tecca,Lil Tecca,I CAN’T LET GO,Plan A,known,2024.0,2024-09-20,2024-09-20,0.0,0.0
+2024-10-11,Charli xcx,Charli xcx,Sympathy is a knife featuring ariana grande,Brat and It's Completely Different but Also Still Brat,known,2024.0,2024-10-11,2024-09-15,26.0,1.0
+2024-10-11,Jelly Roll,Jelly Roll,Liar,Beautifully Broken,known,2024.0,2024-10-11,2024-08-23,49.0,1.0
+2024-10-11,Rod Wave,Rod Wave,25,Last Lap,known,2024.0,2024-10-11,2024-10-12,-1.0,0.0
+2024-10-12,GloRilla,GloRilla,WHATCHU KNO ABOUT ME (feat. Sexyy Red),Glorious,known,2024.0,2024-10-11,2024-09-19,23.0,1.0
+2024-10-18,Chino Pacas,Chino Pacas,Modo Capone (with Drake & Fuerza Regida),Que Sigan Llegando las Pacas,known,2024.0,2024-10-18,2024-10-17,1.0,0.0
+2024-10-18,Yeat,Yeat,GEEK TIMË,Lyfestyle,known,2024.0,2024-10-18,2024-10-19,-1.0,0.0
+2024-10-28,"Tyler, The Creator","Tyler, The Creator",St. Chroma (feat. Daniel Caesar),Chromakopia,known,2024.0,2024-10-28,2024-10-17,11.0,1.0
+2024-11-01,Lil Uzi Vert,Lil Uzi Vert,Light Year (Practice),Eternal Atake 2,known,2024.0,2024-11-01,2024-10-24,8.0,1.0
+2024-11-14,Linkin Park,Linkin Park,Two Faced,From Zero,known,2024.0,2024-11-15,2024-09-05,70.0,1.0
+2024-11-15,Brooks & Dunn,Brooks & Dunn,Neon Moon (with Morgan Wallen),Reboot II,surprise,2024.0,2024-11-15,2024-09-19,57.0,1.0
+2024-11-15,Linkin Park,Linkin Park,Cut the Bridge,From Zero,known,2024.0,2024-11-15,2024-09-05,71.0,1.0
+2024-11-15,Rauw Alejandro,Rauw Alejandro,Qué Pasaría...,Cosa Nuestra,known,2024.0,2024-11-15,2024-09-27,49.0,1.0
+2024-11-22,Ariana Grande,Ariana Grande,Popular,Wicked: The Soundtrack,known,,,,,
+2024-11-22,Cynthia Erivo,Cynthia Erivo,Defying Gravity,Wicked: The Soundtrack,known,,,,,
+2024-11-22,Kendrick Lamar,Kendrick Lamar,squabble up,GNX,surprise,2024.0,2024-11-22,2024-11-22,0.0,0.0
+2024-11-22,Wicked Movie Cast,Wicked Movie Cast,No One Mourns the Wicked,Wicked: The Soundtrack,no_page,,,,,
+2024-11-29,Juice WRLD,Juice WRLD,Misfit,The Party Never Ends,known,2024.0,2024-11-29,2024-09-09,81.0,1.0
+2024-12-01,Juice WRLD,Juice WRLD,Empty Out Your Pockets,The Party Never Ends,known,2024.0,2024-11-29,2024-09-09,83.0,1.0
+2024-12-06,ROSÉ,ROSÉ,toxic till the end,Rosie,known,2024.0,2024-12-06,2024-10-02,65.0,1.0
+2024-12-06,TWICE,TWICE,Strategy (feat. Megan Thee Stallion),Strategy,known,2024.0,2024-12-06,2024-11-26,10.0,1.0
+2025-01-03,Lil Baby,Lil Baby,"Dum, Dumb, and Dumber (with Young Thug & Future)",WHAM,known,2025.0,2025-01-03,2024-12-09,25.0,1.0
+2025-01-05,Bad Bunny,Bad Bunny,NUEVAYoL,Debí Tirar Más Fotos,known,2025.0,2025-01-05,2024-12-26,10.0,1.0
+2025-01-17,Mac Miller,Mac Miller,DJ's Chord Organ (feat. SZA),Balloonerism,known,2025.0,2025-01-17,2024-11-21,57.0,1.0
+2025-01-24,Teddy Swims,Teddy Swims,Bad Dreams,I've Tried Everything but Therapy (Part 2),known,2025.0,2025-01-24,2025-01-06,18.0,1.0
+2025-01-31,The Weeknd,The Weeknd,Cry For Me,Hurry Up Tomorrow,known,2025.0,2025-01-31,2024-11-27,65.0,1.0
+2025-02-04,IVE,IVE,ATTITUDE,Ive Empathy,known,2025.0,2025-02-03,2025-10-13,-251.0,0.0
+2025-02-14,Drake,Drake,GIMME A HUG,Some Sexy Songs 4 U,known,,,,,
+2025-02-14,PARTYNEXTDOOR,PARTYNEXTDOOR,CN TOWER,Some Sexy Songs 4 U,known,,,,,
+2025-02-14,The Lumineers,The Lumineers,Asshole,Automatic,known,2025.0,2025-02-14,2025-01-08,37.0,1.0
+2025-02-21,Tate McRae,Tate McRae,Revolving door,So Close to What,known,2025.0,2025-02-21,2024-11-14,99.0,1.0
+2025-02-28,LISA,LISA,FXCK UP THE WORLD (feat. Future),Alter Ego,known,2025.0,2025-02-28,2024-11-30,90.0,1.0
+2025-03-07,JENNIE,JENNIE,Handlebars (feat. Dua Lipa),Ruby,known,2025.0,2025-03-07,2025-01-22,44.0,1.0
+2025-03-07,Lady Gaga,Lady Gaga,Garden Of Eden,Mayhem,known,2025.0,2025-03-07,2025-01-27,39.0,1.0
+2025-03-14,Playboi Carti,Playboi Carti,EVIL J0RDAN,Music,known,2025.0,2025-03-14,2025-03-14,0.0,0.0
+2025-03-21,Selena Gomez,Selena Gomez,Younger And Hotter Than Me,I Said I Love You First,known,,,,,
+2025-03-22,Selena Gomez,Selena Gomez,How Does It Feel To Be Forgotten,I Said I Love You First,known,,,,,
+2025-03-28,Lucy Dacus,Lucy Dacus,Bullseye (with Hozier),Forever Is a Feeling,known,2025.0,2025-03-28,2025-01-15,72.0,1.0
+2025-03-28,NAV,NAV,UNLIMITED (FT PLAYBOI CARTI),OMW2 Rexdale,known,2025.0,2025-03-28,2025-03-19,9.0,1.0
+2025-04-11,Bon Iver,Bon Iver,There's A Rhythmn,"Sable, Fable",known,2025.0,2025-04-11,2025-02-11,59.0,1.0
+2025-04-11,Ken Carson,Ken Carson,Lord Of Chaos,More Chaos,known,2025.0,2025-04-11,2025-01-16,85.0,1.0
+2025-04-12,Ken Carson,Ken Carson,Off The Meter (with Playboi Carti & Destroy Lonely),More Chaos,known,2025.0,2025-04-11,2025-01-16,86.0,1.0
+2025-04-25,d4vd,d4vd,Is This Really Love?,Withered,known,2025.0,2025-04-25,2025-02-05,79.0,1.0
+2025-05-02,Fuerza Regida,Fuerza Regida,peliculiando,111xpantia,known,2025.0,2025-05-02,2025-03-26,37.0,1.0
+2025-05-02,Key Glock,Key Glock,Blue Devil,Glockaveli,known,2025.0,2025-05-02,2025-04-19,13.0,1.0
+2025-05-09,Kali Uchis,Kali Uchis,All I Can Say,Sincerely,known,2025.0,2025-05-09,2025-03-28,42.0,1.0
+2025-05-09,PinkPantheress,PinkPantheress,Illegal,Fancy That,known,2025.0,2025-05-09,2025-04-07,32.0,1.0
+2025-05-09,Sleep Token,Sleep Token,Even In Arcadia,Even in Arcadia,known,2025.0,2025-05-09,2025-03-13,57.0,1.0
+2025-05-16,Morgan Wallen,Morgan Wallen,What I Want (feat. Tate McRae),I'm the Problem,known,2025.0,2025-05-16,2025-03-25,52.0,1.0
+2025-05-30,Miley Cyrus,Miley Cyrus,Easy Lover,Something Beautiful,known,2025.0,2025-05-30,2024-11-24,187.0,1.0
+2025-06-06,Addison Rae,Addison Rae,New York,Addison,known,2025.0,2025-06-06,2025-04-23,44.0,1.0
+2025-06-06,Lil Wayne,Lil Wayne,Welcome to Tha Carter,Tha Carter VI,known,2025.0,2025-06-06,2025-02-06,120.0,1.0
+2025-06-13,Lil Tecca,Lil Tecca,Half The Plot,Dopamine,no_page,2025.0,2025-06-13,2025-06-10,3.0,1.0
+2025-06-20,Benson Boone,Benson Boone,Mr Electric Blue,American Heart,known,2025.0,2025-06-20,2025-04-13,68.0,1.0
+2025-06-20,KAROL G,KAROL G,Papasito,Tropicoqueta,known,2025.0,2025-06-20,2025-06-10,10.0,1.0
+2025-06-27,KATSEYE,KATSEYE,Gameboy,Beautiful Chaos,known,2025.0,2025-06-27,2025-05-10,48.0,1.0
+2025-06-27,Lorde,Lorde,Shapeshifter,Virgin,known,2025.0,2025-06-27,2025-04-30,58.0,1.0
+2025-07-11,Clipse,Clipse,Chains & Whips,Let God Sort Em Out,known,2025.0,2025-07-11,2025-05-29,43.0,1.0
+2025-07-11,GIVĒON,GIVĒON,I CAN TELL,Beloved,known,2025.0,2025-07-11,2025-05-28,44.0,1.0
+2025-07-11,Justin Bieber,Justin Bieber,DAISIES,Swag,surprise,2025.0,2025-07-11,2025-07-10,1.0,0.0
+2025-07-13,Travis Scott,Travis Scott,CHAMPAIN & VACAY,JackBoys 2,known,,,,,
+2025-07-18,Alex Warren,Alex Warren,Eternity,"You'll Be Alright, Kid",known,2025.0,2025-07-18,2025-06-10,38.0,1.0
+2025-07-18,Jessie Murph,Jessie Murph,1965,Sex Hysteria,known,2025.0,2025-07-18,2025-06-10,38.0,1.0
+2025-07-21,"Tyler, The Creator","Tyler, The Creator",Big Poe (feat. Sk8brd),Don't Tap the Glass,known,2025.0,2025-07-21,2025-07-19,2.0,1.0
+2025-07-25,Drake,Drake,Which One (feat. Central Cee),The Making of Five Leaves Left,known,,,,,
+2025-07-25,Freddie Gibbs,Freddie Gibbs,Ensalada (feat. Anderson .Paak),Alfredo 2,known,,,,,
+2025-07-25,Tyler Childers,Tyler Childers,Eatin' Big Time,Snipe Hunter,known,2025.0,2025-07-25,2025-06-12,43.0,1.0
+2025-08-01,$uicideboy$,$uicideboy$,Napoleon,Thy Kingdom Come,surprise,,,,,
+2025-08-01,Metro Boomin,Metro Boomin,They Wanna Have Fun,A Futuristic Summa,known,2025.0,2025-08-01,2025-07-15,17.0,1.0
+2025-08-01,Reneé Rapp,Reneé Rapp,Shy,Bite Me,known,2025.0,2025-08-01,2025-05-21,72.0,1.0
+2025-08-01,Yeat,Yeat,PUT IT ONG,Dangerous Summer,known,2025.0,2025-08-01,2025-07-28,4.0,1.0
+2025-08-08,Bailey Zimmerman,Bailey Zimmerman,Lost (feat. The Kid LAROI),Different Night Same Rodeo,known,2025.0,2025-08-08,2025-06-06,63.0,1.0
+2025-08-08,Gunna,Gunna,just say dat,The Last Wun,known,2025.0,2025-08-08,2025-08-04,4.0,1.0
+2025-08-08,JID,JID,YouUgly (with Westside Gunn),God Does Like Ugly,known,2025.0,2025-08-08,2025-05-08,92.0,1.0
+2025-08-08,mgk,Machine Gun Kelly,outlaw overture,Lost Americana,no_page,2025.0,2025-08-08,2025-06-10,59.0,1.0
+2025-08-15,Conan Gray,Conan Gray,Caramel,Wishbone,known,2025.0,2025-08-15,2025-05-22,85.0,1.0
+2025-08-15,Maroon 5,Maroon 5,Love Is Like (feat. Lil Wayne),Love Is Like,known,2025.0,2025-08-15,2025-06-23,53.0,1.0
+2025-08-22,BigXthaPlug,BigXthaPlug,Box Me Up (feat. Jelly Roll),I Hope You're Happy,surprise,2025.0,2025-08-22,2025-08-13,9.0,1.0
+2025-08-22,Deftones,Deftones,infinite source,Private Music,known,2025.0,2025-08-22,2025-07-10,43.0,1.0
+2025-08-22,Laufey,Laufey,Clockwork,A Matter of Time,known,2025.0,2025-08-22,2025-05-14,100.0,1.0
+2025-08-22,Offset,Offset,Different Species (feat. Gunna),Kiari,known,2025.0,2025-08-22,2025-08-05,17.0,1.0
+2025-08-22,Stray Kids,Stray Kids,CEREMONY,Karma,known,2025.0,2025-08-22,2025-07-25,28.0,1.0
+2025-08-22,sombr,sombr,i wish i knew how to quit you,I Barely Know Her,known,2025.0,2025-08-22,2025-08-11,11.0,1.0
+2025-08-29,Sabrina Carpenter,Sabrina Carpenter,Tears,Man's Best Friend,known,2025.0,2025-08-29,2025-06-11,79.0,1.0
+2025-08-29,Zach Top,Zach Top,When You See Me,Ain't in It for My Health,known,2025.0,2025-08-29,2025-06-09,81.0,1.0
+2025-09-06,Justin Bieber,Justin Bieber,LOVE SONG,Swag II,known,2025.0,2025-09-05,2025-09-04,2.0,1.0
+2025-09-12,Ed Sheeran,Ed Sheeran,Camera,Play,known,2025.0,2025-09-12,2025-05-01,134.0,1.0
+2025-09-12,Twenty One Pilots,Twenty One Pilots,City Walls,Breach,known,2025.0,2025-09-12,2025-05-21,114.0,1.0
+2025-09-19,Cardi B,Cardi B,Safe (feat. Kehlani),Am I the Drama?,known,2025.0,2025-09-19,2025-06-23,88.0,1.0
+2025-09-26,Doja Cat,Doja Cat,Gorgeous,Vie,known,2025.0,2025-09-26,2025-07-03,85.0,1.0
+2025-09-26,Olivia Dean,Olivia Dean,So Easy (To Fall In Love),The Art of Loving,known,2025.0,2025-09-26,2025-06-03,115.0,1.0
+2025-09-26,Young Thug,Young Thug,Ninja,UY Scuti,known,2025.0,2025-09-26,2025-04-28,151.0,1.0
+2025-10-03,Taylor Swift,Taylor Swift,The Fate of Ophelia,The Life of a Showgirl,known,2025.0,2025-10-03,2025-08-12,52.0,1.0
+2025-10-17,Tame Impala,Tame Impala,My Old Ways,Deadbeat,known,2025.0,2025-10-17,2025-09-06,41.0,1.0
+2025-10-17,Ty Dolla $ign,Ty Dolla $ign,DON'T KILL THE PARTY (feat. Quavo & Juicy J),Tycoon,no_page,,,,,
+2025-10-24,Daniel Caesar,Daniel Caesar,Root of all Evil,Son of Spergy,surprise,2025.0,2025-10-24,2025-08-22,63.0,1.0
+2025-10-24,Leon Thomas,Leon Thomas,My Muse,Pholks,no_page,2025.0,2025-10-24,2025-11-01,-8.0,0.0
+2025-11-07,DJ Snake,DJ Snake,Tsunami (feat. Future & Travis Scott),Nomad,no_page,2025.0,2025-11-07,2025-05-17,174.0,1.0
+2025-11-07,ROSALÍA,ROSALÍA,La Perla,Lux,known,2025.0,2025-11-07,2025-10-20,18.0,1.0
+2025-11-14,Kelsea Ballerini,Kelsea Ballerini,Emerald City,Mount Pleasant,no_page,2025.0,2025-11-14,2025-11-07,7.0,1.0
+2025-11-14,Summer Walker,Summer Walker,FMT,Finally Over It,known,2025.0,2025-11-14,2025-04-27,201.0,1.0
+2025-11-21,Ariana Grande,Ariana Grande,The Girl in the Bubble,Wicked: For Good – The Soundtrack,no_page,,,,,
+2025-11-21,Cynthia Erivo,Cynthia Erivo,No Good Deed,Wicked: For Good – The Soundtrack,no_page,,,,,
+2025-11-21,Stray Kids,Stray Kids,Do It,Do It,known,2025.0,2025-11-21,2025-10-19,33.0,1.0
+2025-11-21,Wicked Movie Cast,Wicked Movie Cast,Every Day More Wicked,Wicked: For Good – The Soundtrack,no_page,,,,,
+2025-12-05,Lil Baby,Lil Baby,Let's Do It (feat. Playboi Carti & Skooly),The Leaks,known,2025.0,2025-12-03,2025-08-07,120.0,1.0
+2025-12-12,21 Savage,21 Savage,MR RECOUP,What Happened to the Streets?,known,2025.0,2025-12-12,2025-12-08,4.0,1.0
+2026-01-09,The Kid LAROI,The Kid LAROI,RATHER BE (feat. Lithe),Before I Forget,known,2026.0,2026-01-09,2025-11-20,50.0,1.0
+2026-01-09,Zach Bryan,Zach Bryan,Plastic Cigarette,With Heaven on Top,known,2026.0,2026-01-09,2025-07-25,168.0,1.0
+2026-01-16,A$AP Rocky,A$AP Rocky,STAY HERE 4 LIFE (feat. Brent Faiyaz),Don't Be Dumb,no_page,,,,,
+2026-01-16,Madison Beer,Madison Beer,bad enough,Locket,known,2026.0,2026-01-16,2025-10-22,86.0,1.0
+2026-01-30,Don Toliver,Don Toliver,Body,Octane,known,2026.0,2026-01-30,2026-01-23,7.0,1.0
+2026-02-06,J. Cole,J. Cole,Two Six,The Fall-Off,known,2026.0,2026-02-06,2026-01-14,23.0,1.0
+2026-02-06,Joji,Joji,Hotel California,Piss in the Wind,known,2026.0,2026-02-06,2025-11-04,94.0,1.0
+2026-02-13,Brent Faiyaz,Brent Faiyaz,other side.,Icon,known,2026.0,2026-02-13,2026-02-03,10.0,1.0
+2026-02-13,Charli xcx,Charli xcx,Always Everywhere,Wuthering Heights,known,2026.0,2026-02-13,2025-11-13,92.0,1.0
+2026-02-20,Baby Keem,Baby Keem,Good Flirts (feat. Kendrick Lamar & Momo Boyd),Casino,known,2026.0,2026-02-20,2026-02-10,10.0,1.0
+2026-02-20,Megan Moroney,Megan Moroney,Medicine,Cloud 9,known,2026.0,2026-02-20,2025-11-11,101.0,1.0
+2026-02-27,BLACKPINK,BLACKPINK,GO,Deadline,known,2026.0,2026-02-27,2026-01-14,44.0,1.0
+2026-02-27,Bruno Mars,Bruno Mars,Risk It All,The Romantic,known,2026.0,2026-02-27,2026-01-07,51.0,1.0
+2026-02-27,Gorillaz,Gorillaz,"The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",The Mountain,known,2026.0,2026-02-27,2025-09-11,169.0,1.0
+2026-02-27,Mitski,Mitski,If I Leave,Nothing's About to Happen to Me,known,2026.0,2026-02-27,2026-01-15,43.0,1.0
+2026-03-06,Harry Styles,Harry Styles,American Girls,"Kiss All the Time. Disco, Occasionally.",known,2026.0,2026-03-06,2026-01-15,50.0,1.0
+2026-03-13,Jack Harlow,Jack Harlow,Trade Places,Monica,known,2026.0,2026-03-13,2026-02-10,31.0,1.0
+2026-03-20,BTS,BTS,SWIM,Arirang,known,2026.0,2026-03-20,2026-01-15,64.0,1.0
+2026-03-20,Luke Combs,Luke Combs,Rethink Some Things,The Way I Am,known,2026.0,2026-03-20,2026-01-07,72.0,1.0
+2026-03-27,RAYE,RAYE,Click Clack Symphony. (feat. Hans Zimmer),This Music May Contain Hope,known,2026.0,2026-03-27,2026-01-22,64.0,1.0
+2026-03-27,Yeat,Yeat,Lose Control,ADL,known,2026.0,2026-03-27,2026-03-31,-4.0,0.0
+2026-03-28,Kanye West,Kanye West,FATHER (feat. Travis Scott),Bully,known,2026.0,2026-03-28,2026-03-17,11.0,1.0
+2026-04-10,Ella Langley,Ella Langley,Bottom Of Your Boots,Dandelion,known,2026.0,2026-04-10,2026-01-27,73.0,1.0
+2026-04-24,Kehlani,Kehlani,Shoulda Never (feat. USHER),Kehlani,known,2026.0,2026-04-24,2026-03-17,38.0,1.0
+2026-04-24,Noah Kahan,Noah Kahan,Doors,The Great Divide,known,2026.0,2026-04-24,2026-01-28,86.0,1.0
+2026-04-25,Noah Kahan,Noah Kahan,Staying Still,The Great Divide,known,2026.0,2026-04-24,2026-01-28,87.0,1.0
+2026-05-01,Isaiah Rashad,Isaiah Rashad,BOY IN RED,It's Been Awful,known,2026.0,2026-05-01,2026-04-07,24.0,1.0
+2026-05-01,Kacey Musgraves,Kacey Musgraves,Horses and Divorces (feat. Miranda Lambert),Middle of Nowhere,known,2026.0,2026-05-01,2026-03-11,51.0,1.0
+2026-05-15,Drake,Drake,Make Them Cry,Habibti,known,2026.0,2026-05-15,2026-05-15,0.0,0.0
+2026-05-15,LUCKI,LUCKI,NUPPY INTRO,Dr*gs R Bad,surprise,2026.0,2026-05-15,2026-06-10,-26.0,0.0
+2026-06-05,Malcolm Todd,Malcolm Todd,Difficult Love,Do That Again,known,2026.0,2026-06-05,2026-04-29,37.0,1.0
+2026-06-12,Olivia Rodrigo,Olivia Rodrigo,stupid song,You Seem Pretty Sad for a Girl So in Love,known,2026.0,2026-06-12,2026-04-02,71.0,1.0
+2026-06-26,Cody Johnson,Cody Johnson,Shoot The Bull,Banks of the Trinity,known,2026.0,2026-06-26,2026-04-17,70.0,1.0
+2026-07-03,Ken Carson,Ken Carson,deaf note (with Playboi Carti),Xperiment,known,2026.0,2026-07-03,2026-06-19,14.0,1.0
+2026-07-10,Future,Future,Fukk A Interview,The Real Me,known,2026.0,2026-07-10,2026-06-26,14.0,1.0
+2026-07-17,Gracie Abrams,Gracie Abrams,Good Reason,Daughter from Hell,known,2026.0,2026-07-17,2026-05-11,67.0,1.0
+2026-07-17,Steve Lacy,Steve Lacy,doom,Oh Yeah?,known,2026.0,2026-07-17,2026-06-04,43.0,1.0
+2026-07-24,Charli xcx,Charli xcx,Camera,"Music, Fashion, Film",known,2026.0,2026-07-24,2026-06-01,53.0,1.0
+2026-07-24,The Strokes,The Strokes,Lonely in the Future,Reality Awaits,known,2026.0,2026-07-24,2026-04-06,109.0,1.0
+2026-07-31,Ariana Grande,Ariana Grande,petal,Petal,known,2026.0,2026-07-31,2026-04-28,94.0,1.0
+2026-07-31,Shaboozey,Shaboozey,Bullets & Blades (feat. Kehlani),The Outlaw Cherie Lee & Other Western Tales,known,2026.0,2026-07-31,2026-04-20,102.0,1.0
+2026-08-01,Lil Uzi Vert,Lil Uzi Vert,Maverick Intro,Maverick Almost Forever,surprise,2026.0,2026-07-31,2026-08-18,-17.0,0.0
+2026-08-07,KAROL G,KAROL G,Still,No Me Arrepiento de Sentir Tanto,known,2026.0,2026-08-07,2026-07-30,8.0,1.0
+2026-08-07,Stray Kids,Stray Kids,This & That,This & That,known,2026.0,2026-08-07,2026-06-22,46.0,1.0
+2026-08-14,KATSEYE,KATSEYE,Hootie Frutti,Wild,known,2026.0,2026-08-14,2026-04-27,109.0,1.0
+2026-08-14,Phoebe Bridgers,Phoebe Bridgers,The Outside,Lost Weekend,known,2026.0,2026-08-14,2026-06-24,51.0,1.0
+2026-08-21,ENHYPEN,ENHYPEN,Bloody Paradise,The Sin: Bliss,known,2026.0,2026-08-21,2026-09-01,-11.0,0.0
+2026-08-28,Alex Warren,Alex Warren,EMERALD EYES,Wildchild,known,2026.0,2026-08-28,2026-06-04,85.0,1.0
+2026-08-28,Rod Wave,Rod Wave,Mainstay (feat. Luv Von),Don't Look Down,surprise,2026.0,2026-08-28,2026-06-17,72.0,1.0
+2026-09-04,ADÉLA,ADÉLA,Nicole Kidman,Prima,no_page,2026.0,2026-09-04,2026-07-23,43.0,1.0
+2026-09-04,Nemzzz,Nemzzz,GASS (feat. Travis Scott),Locked In,no_page,2026.0,2026-09-04,2026-09-04,0.0,0.0
+2026-09-11,Jhené Aiko,Jhené Aiko,So Good (feat. Kendrick Lamar),Westside Whimsy,known,2026.0,2026-09-11,2026-09-09,2.0,1.0
+2026-09-12,Jhené Aiko,Jhené Aiko,He Belongs,Westside Whimsy,known,2026.0,2026-09-11,2026-09-09,3.0,1.0
